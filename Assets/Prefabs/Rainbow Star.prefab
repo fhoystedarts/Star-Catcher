@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 6400538509119488205}
   m_Layer: 0
   m_Name: Rainbow Star
-  m_TagString: Untagged
+  m_TagString: rainbow
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -143,3 +143,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
+  Points: 0
