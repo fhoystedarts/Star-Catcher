@@ -3,13 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - KillPlane
-  - Checkpoint
-  - MovingPlatform
-  - Enemy
-  - FP
-  - PlayerB
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -19,9 +13,9 @@ TagManager:
   - UI
   - 
   - 
-  - Player
-  - Ground
-  - Enemy
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -44,15 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: World Objects
-    uniqueID: 1905526379
-    locked: 0
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Player
-    uniqueID: 3207649549
-    locked: 0
-  - name: Foreground
-    uniqueID: 4257117421
     locked: 0
