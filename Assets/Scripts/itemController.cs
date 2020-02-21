@@ -6,6 +6,7 @@ public class itemController : MonoBehaviour
 {
     public float moveSpeed;
     private Rigidbody2D rigidbody2D;
+    public int Points;
 
     // Start is called before the first frame update
     void Start()
