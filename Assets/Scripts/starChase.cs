@@ -24,7 +24,7 @@ public class starChase : MonoBehaviour
 
 			transform.position = Vector3.Lerp(transform.position, new Vector3(transform.position.x, touchPosition.y, transform.position.z), Time.deltaTime * 5.0f);
 
-			//attatch to net model
+			//attach to net model
 			//enemy spawner 
 			//meteors would have greater up velocity. Set up spawner 
 			//for differnt nets, change how "powerful" the meteors are for each new new
