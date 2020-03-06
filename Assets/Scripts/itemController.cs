@@ -4,12 +4,11 @@ using UnityEngine;
 
 public class itemController : MonoBehaviour
 {
-    [SerializeField]
-    public GameManager gameManager;
+    
 
     public float moveSpeed;
     private Rigidbody2D rigidbody2D;
-    public int Points;
+   
 
     // Start is called before the first frame update
     void Start()
@@ -23,12 +22,5 @@ public class itemController : MonoBehaviour
         rigidbody2D.velocity = new Vector3(-moveSpeed, rigidbody2D.velocity.y, 0f);
     }
 
-    public void OnTriggerEnter2D(Collider2D other)
-    {
-        if(other.gameObject.CompareTag("Player"))
-        {
-            gameManager.AddScore(Points);
-            gameObject.SetActive(false);
-        }
-    }
+    
 }

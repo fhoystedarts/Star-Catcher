@@ -5,11 +5,12 @@ using UnityEngine;
 public class starChase : MonoBehaviour
 
 {
-    
+    [SerializeField]
+    public GameManager gameManager;
 
-  
-	// Start is called before the first frame update
-	void Start()
+
+    // Start is called before the first frame update
+    void Start()
 	{
        
 	}
@@ -37,5 +38,31 @@ public class starChase : MonoBehaviour
 
 		}
 	}
-
+    public void OnTriggerEnter2D(Collider2D collision)
+    {
+       if(collision.gameObject.CompareTag("yellow"))
+        {
+            gameManager.score = gameManager.score + 1;
+            gameManager.UpdateScore();
+            collision.gameObject.SetActive(false);
+        }
+       else if(collision.gameObject.CompareTag("blue"))
+        {
+            gameManager.score = gameManager.score + 5;
+            gameManager.UpdateScore();
+            collision.gameObject.SetActive(false);
+        }
+        else if (collision.gameObject.CompareTag("rainbow"))
+        {
+            gameManager.score = gameManager.score + 20;
+            gameManager.UpdateScore();
+            collision.gameObject.SetActive(false);
+        }
+        else if (collision.gameObject.CompareTag("black"))
+        {
+            gameManager.score = gameManager.score - 20;
+            gameManager.UpdateScore();
+            collision.gameObject.SetActive(false);
+        }
+    }
 }

@@ -23,7 +23,7 @@ public class GameManager : MonoBehaviour
 
     public void Update()
     {
-        scoreText.text = "Score:" + score;
+   
     }
 
     public void AddScore(int newScoreValue)
@@ -34,7 +34,7 @@ public class GameManager : MonoBehaviour
 
     public void UpdateScore()
     {
-        scoreText.text = "Score: " + score;
+        scoreText.text = "Score:" + score.ToString();
     }
     
 
