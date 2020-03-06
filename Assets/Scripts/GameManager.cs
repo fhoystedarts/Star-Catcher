@@ -18,12 +18,24 @@ public class GameManager : MonoBehaviour
     private void Start()
     {
         score = 0;
+        UpdateScore();
     }
 
     public void Update()
     {
         scoreText.text = "Score:" + score;
-    }  
-    // Start is called before the first frame update
+    }
+
+    public void AddScore(int newScoreValue)
+    {
+        score += newScoreValue;
+        UpdateScore();
+    }
+
+    public void UpdateScore()
+    {
+        scoreText.text = "Score: " + score;
+    }
+    
 
 }
