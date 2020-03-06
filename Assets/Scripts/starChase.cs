@@ -41,22 +41,22 @@ public class starChase : MonoBehaviour
     {
         if (other.gameObject.CompareTag ("yellow"))
         {
-            gameManager.Score++;
+            gameManager.score++;
             other.gameObject.SetActive(false);
         }
         else if (other.gameObject.CompareTag("blue"))
         {
-            gameManager.Score = gameManager.Score + 5;
+            gameManager.score = gameManager.score + 5;
             other.gameObject.SetActive(false);
         }
         else if (other.gameObject.CompareTag("rainbow"))
         {
-            gameManager.Score = gameManager.Score + 20;
+            gameManager.score = gameManager.score + 20;
             other.gameObject.SetActive(false);
         }
         else if (other.gameObject.CompareTag("black"))
         {
-            gameManager.Score = gameManager.Score - 20;
+            gameManager.score = gameManager.score - 20;
             other.gameObject.SetActive(false);
         }
         else if (other.gameObject.CompareTag("meteor"))

@@ -6,27 +6,24 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     [SerializeField]
-    private Text scoreText;
+    public Text scoreText;
 
-    private int score;
+    public int score;
 
     public int health;
 
-    public int Score
-    {
-        get { return score; }
-        set
-        {
-            score = value;
-            scoreText.text = "Stars:" + score.ToString();
+    public Slider healthBar;
 
-        }
+
+    private void Start()
+    {
+        score = 0;
     }
 
-    private void Awake()
+    public void Update()
     {
-        Score = 0;
-    }
+        scoreText.text = "Score:" + score;
+    }  
     // Start is called before the first frame update
-    
+
 }
