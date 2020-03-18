@@ -64,5 +64,11 @@ public class starChase : MonoBehaviour
             gameManager.UpdateScore();
             collision.gameObject.SetActive(false);
         }
+       else if (collision.gameObject.CompareTag("meteor"))
+        {
+            gameManager.health = gameManager.health - 1;
+            collision.gameObject.SetActive(false);
+            Debug.Log("Health:" + gameManager.health);
+        }
     }
 }

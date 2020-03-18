@@ -13,6 +13,9 @@ public class GameManager : MonoBehaviour
     public int health;
 
     public Slider healthBar;
+    public SceneChanger sceneChanger;
+
+
 
 
     private void Start()
@@ -23,7 +26,12 @@ public class GameManager : MonoBehaviour
 
     public void Update()
     {
-   
+        if (health <= 0)
+        {
+            Time.timeScale = 0;
+                Debug.Log("You Died");
+            sceneChanger.LoadGameOver();
+        }
     }
 
     public void AddScore(int newScoreValue)
