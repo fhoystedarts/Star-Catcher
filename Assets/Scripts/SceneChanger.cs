@@ -8,6 +8,9 @@ public class SceneChanger : MonoBehaviour
 {
     public string nextScene;
     public string GameOverScreen;
+    public string ShopScreen;
+    public string TutorialScene;
+
     public Canvas pauseMenu;
     private bool paused;
     // Start is called before the first frame update
@@ -51,6 +54,25 @@ public class SceneChanger : MonoBehaviour
     public void LoadGameOver()
     {
         SceneManager.LoadScene(GameOverScreen);
+    }
+
+
+    public void LoadShopScene()
+    {
+        SceneManager.LoadScene(ShopScreen);
+    }
+    public void LoadMainMenu()
+    {
+        SceneManager.LoadScene(0);
+    }
+
+    public void LoadTutorial()
+    {
+        SceneManager.LoadScene(TutorialScene);
+    }
+    public void ExitGame()
+    {
+        Application.Quit();
     }
 
 }

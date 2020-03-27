@@ -1,0 +1,1831 @@
+fileFormatVersion: 2
+guid: 2c36bacf0ba3c4e5aba47639471f76df
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8080082049064292040
+    second: Meteor_Rotation_Sheet_0
+  - first:
+      213: -8920462559230306493
+    second: Meteor_Rotation_Sheet_1
+  - first:
+      213: -2034337318134220914
+    second: Meteor_Rotation_Sheet_2
+  - first:
+      213: 5309019210085109849
+    second: Meteor_Rotation_Sheet_3
+  - first:
+      213: 1213628455251894389
+    second: Meteor_Rotation_Sheet_4
+  - first:
+      213: -1031865760203564437
+    second: Meteor_Rotation_Sheet_5
+  - first:
+      213: 7108118138392164124
+    second: Meteor_Rotation_Sheet_6
+  - first:
+      213: 4695486411260711362
+    second: Meteor_Rotation_Sheet_7
+  - first:
+      213: 4600505294845913531
+    second: Meteor_Rotation_Sheet_8
+  - first:
+      213: -4167362116027750227
+    second: Meteor_Rotation_Sheet_9
+  - first:
+      213: 1219646658058227497
+    second: Meteor_Rotation_Sheet_10
+  - first:
+      213: -3191608257621720546
+    second: Meteor_Rotation_Sheet_11
+  - first:
+      213: -8619008173629906493
+    second: Meteor_Rotation_Sheet_12
+  - first:
+      213: 1082283766271783494
+    second: Meteor_Rotation_Sheet_13
+  - first:
+      213: -1971048251982104772
+    second: Meteor_Rotation_Sheet_14
+  - first:
+      213: -5639323974040802531
+    second: Meteor_Rotation_Sheet_15
+  - first:
+      213: -2733795401270518992
+    second: Meteor_Rotation_Sheet_16
+  - first:
+      213: -3479157023133227900
+    second: Meteor_Rotation_Sheet_17
+  - first:
+      213: 2357595439024792033
+    second: Meteor_Rotation_Sheet_18
+  - first:
+      213: 6628276618181770402
+    second: Meteor_Rotation_Sheet_19
+  - first:
+      213: -857854814824634654
+    second: Meteor_Rotation_Sheet_20
+  - first:
+      213: -5440358928749870923
+    second: Meteor_Rotation_Sheet_21
+  - first:
+      213: 7340460229470125388
+    second: Meteor_Rotation_Sheet_22
+  - first:
+      213: -3683407398726342347
+    second: Meteor_Rotation_Sheet_23
+  - first:
+      213: -6932619248648341720
+    second: Meteor_Rotation_Sheet_24
+  - first:
+      213: -8104436871153108380
+    second: Meteor_Rotation_Sheet_25
+  - first:
+      213: 4619875126985669988
+    second: Meteor_Rotation_Sheet_26
+  - first:
+      213: -5787707873967955316
+    second: Meteor_Rotation_Sheet_27
+  - first:
+      213: 46074770645535933
+    second: Meteor_Rotation_Sheet_28
+  - first:
+      213: -8355884134576625979
+    second: Meteor_Rotation_Sheet_29
+  - first:
+      213: 2164636129767358335
+    second: Meteor_Rotation_Sheet_30
+  - first:
+      213: -6104341055387288272
+    second: Meteor_Rotation_Sheet_31
+  - first:
+      213: -166092561735475499
+    second: Meteor_Rotation_Sheet_32
+  - first:
+      213: 7298555414802052559
+    second: Meteor_Rotation_Sheet_33
+  - first:
+      213: 5217038635264302572
+    second: Meteor_Rotation_Sheet_34
+  - first:
+      213: 2802244104320945409
+    second: Meteor_Rotation_Sheet_35
+  - first:
+      213: -3953581624147223352
+    second: Meteor_Rotation_Sheet_36
+  - first:
+      213: 7891458010835977668
+    second: Meteor_Rotation_Sheet_37
+  - first:
+      213: 2758078384427494571
+    second: Meteor_Rotation_Sheet_38
+  - first:
+      213: -5894480363401937793
+    second: Meteor_Rotation_Sheet_39
+  - first:
+      213: 3614160557941953887
+    second: Meteor_Rotation_Sheet_40
+  - first:
+      213: -9171085096057521959
+    second: Meteor_Rotation_Sheet_41
+  - first:
+      213: -6149607432655429287
+    second: Meteor_Rotation_Sheet_42
+  - first:
+      213: 7971267604824325223
+    second: Meteor_Rotation_Sheet_43
+  - first:
+      213: -4178903347760613709
+    second: Meteor_Rotation_Sheet_44
+  - first:
+      213: 3423939265400493513
+    second: Meteor_Rotation_Sheet_45
+  - first:
+      213: 7875828315874352227
+    second: Meteor_Rotation_Sheet_46
+  - first:
+      213: -6607255644226604908
+    second: Meteor_Rotation_Sheet_47
+  - first:
+      213: -3704994019335101215
+    second: Meteor_Rotation_Sheet_48
+  - first:
+      213: -2580933093213637860
+    second: Meteor_Rotation_Sheet_49
+  - first:
+      213: 1040761115323128539
+    second: Meteor_Rotation_Sheet_50
+  - first:
+      213: 978852117149972290
+    second: Meteor_Rotation_Sheet_51
+  - first:
+      213: -7007018267032786240
+    second: Meteor_Rotation_Sheet_52
+  - first:
+      213: 2537079171240852061
+    second: Meteor_Rotation_Sheet_53
+  - first:
+      213: -2616575959336143474
+    second: Meteor_Rotation_Sheet_54
+  - first:
+      213: -4538042514685025102
+    second: Meteor_Rotation_Sheet_55
+  - first:
+      213: -5479093349356090279
+    second: Meteor_Rotation_Sheet_56
+  - first:
+      213: 1866972751463478379
+    second: Meteor_Rotation_Sheet_57
+  - first:
+      213: -8778760107684970967
+    second: Meteor_Rotation_Sheet_58
+  - first:
+      213: 5396007308831003135
+    second: Meteor_Rotation_Sheet_59
+  - first:
+      213: -1810794061865367835
+    second: Meteor_Rotation_Sheet_60
+  - first:
+      213: -1371123955323069955
+    second: Meteor_Rotation_Sheet_61
+  - first:
+      213: -4756938258959478620
+    second: Meteor_Rotation_Sheet_62
+  - first:
+      213: 3810086079960850666
+    second: Meteor_Rotation_Sheet_63
+  - first:
+      213: -4890449460004859916
+    second: Meteor_Rotation_Sheet_64
+  - first:
+      213: 5417894729232367775
+    second: Meteor_Rotation_Sheet_65
+  - first:
+      213: 3177737926063156
+    second: Meteor_Rotation_Sheet_66
+  - first:
+      213: 4520220622609286731
+    second: Meteor_Rotation_Sheet_67
+  - first:
+      213: -1062895050940372868
+    second: Meteor_Rotation_Sheet_68
+  - first:
+      213: 171650241778267837
+    second: Meteor_Rotation_Sheet_69
+  - first:
+      213: -7082108065718447586
+    second: Meteor_Rotation_Sheet_70
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b9ad58de16e4a55bae02684f912a12
+      internalID: -8080082049064292040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 11200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bd96a02a1d4498abb342ee3ff0e34e
+      internalID: -8920462559230306493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 11200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298a3e9bd06df4ca6a17511051d6b09a
+      internalID: -2034337318134220914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 11200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a7aabccb16c4ef18d9b1ceb3b4651e
+      internalID: 5309019210085109849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 11200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74a59896007d48a29994409740751b4
+      internalID: 1213628455251894389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 11200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b62c7c41e754eb59dd0c464a74a869
+      internalID: -1031865760203564437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 11200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b693742ea52847769c5c4bf7add1fb2
+      internalID: 7108118138392164124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 11200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17adbd378f06141a9a0bc6c8770091dc
+      internalID: 4695486411260711362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b4638523ae7484387b3c853bab1de0
+      internalID: 4600505294845913531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 9800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22187f9efc28c4e5aa5f45d42a0840ac
+      internalID: -4167362116027750227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 9800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b95a8809bd843baac4dc669cf51432
+      internalID: 1219646658058227497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 9800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4579aae30c1584454b7c343d1ba0a01d
+      internalID: -3191608257621720546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 9800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a702c9282f8304edda7a2af187b84dd2
+      internalID: -8619008173629906493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 9800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e0c1c7eadd54158beaab02fe62fdad
+      internalID: 1082283766271783494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 9800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0383caf25f7841f1900d6225885ddeb
+      internalID: -1971048251982104772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 9800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fccd5349f4514fd286d5cfe8630e5ba
+      internalID: -5639323974040802531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b58f3903f4346afbca75c65436e19a
+      internalID: -2733795401270518992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 8400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a5c9fec8e1e417c99ce11ba0f339ad
+      internalID: -3479157023133227900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 8400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fb7cdc7fa654005a81b21bb689fbb0
+      internalID: 2357595439024792033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 8400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2111fcb2c765d4a10a30a76b0b1d37c2
+      internalID: 6628276618181770402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 8400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788a6585da2e94731ab8483a2ecb09fe
+      internalID: -857854814824634654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 8400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd7e14cafdf949e3bc7293ca654b915
+      internalID: -5440358928749870923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 8400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 074b300005c764f90a37493c4c104107
+      internalID: 7340460229470125388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 8400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd53b83e7b6349dab4204836dbf8f8a
+      internalID: -3683407398726342347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7000
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d19a49fe76114bba9ce53b42991d97c
+      internalID: -6932619248648341720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 7000
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3d56a8209142648e98121fa19b2cb
+      internalID: -8104436871153108380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 7000
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5715f0cb3dda4c47b099ab614205610
+      internalID: 4619875126985669988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 7000
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a80ab349f5654a8b86bebfda14a6d70
+      internalID: -5787707873967955316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 7000
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4b341eab09c4e5d8f5e912516fafc7
+      internalID: 46074770645535933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 7000
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa436028db5944d490ad62c6dd0a99d
+      internalID: -8355884134576625979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 7000
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d757d20097dd4df4a438657b45e46a1
+      internalID: 2164636129767358335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 7000
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694396c025e4b4e91afe94564c279052
+      internalID: -6104341055387288272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e3181e957204b459c514478cfa5023
+      internalID: -166092561735475499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 5600
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd603af65e0f045fa8e7664dbd49dbf8
+      internalID: 7298555414802052559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 5600
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542e5d943bf2d44e0827b1a1a144eff4
+      internalID: 5217038635264302572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 5600
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a647638c666e4acd818ed304048543b
+      internalID: 2802244104320945409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5600
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d860503c33449e1906139206f9cee0
+      internalID: -3953581624147223352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 5600
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c50d0928a6924a9698e5b85d5592315
+      internalID: 7891458010835977668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 5600
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd85fe73794b478aaa4ca12cc32b66e
+      internalID: 2758078384427494571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 5600
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317d34f449cc94577a3d0b9267c28dba
+      internalID: -5894480363401937793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0d84ff4e387e495696143a0e4bba6ce
+      internalID: 3614160557941953887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a2f1f5c75214443865691648afef2f
+      internalID: -9171085096057521959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de5e78d7530c4c45a026c18d5c5793c
+      internalID: -6149607432655429287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca94a8b3eab44a73bf73cc2eda80fe9
+      internalID: 7971267604824325223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adf2b839cb6244e0b9104a52b66d0e7
+      internalID: -4178903347760613709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9a6922c8efe419da4832aff4dadce8
+      internalID: 3423939265400493513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc82599704b04a40a82e380ddc64a60
+      internalID: 7875828315874352227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 4200
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7607e4fe5da6e4f4ebab9a4cd274b842
+      internalID: -6607255644226604908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cc21704bd5c4150b4d408467c8599c
+      internalID: -3704994019335101215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2510dc60b2b447a9159ef67b84bf3e
+      internalID: -2580933093213637860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65020d4d036bb4681a2839d9d9c783a9
+      internalID: 1040761115323128539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a14f6bad574130af5ff16e14d06b5
+      internalID: 978852117149972290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9835272b55da442f4a7bc6f0c93c97cc
+      internalID: -7007018267032786240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8b682fee0334556a9b47bdb74564bf
+      internalID: 2537079171240852061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29db21d6a2f934c37ab4fdb9d441a794
+      internalID: -2616575959336143474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 2800
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5250f77343f6b4023a08591ecf1cd9ab
+      internalID: -4538042514685025102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06a8f16dc2e34c5fbab66583fdadba4
+      internalID: -5479093349356090279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100006a02882a4d588a1692918d2f8d9
+      internalID: 1866972751463478379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9235fcc559a6a4d20a5f2ce9569d5e5f
+      internalID: -8778760107684970967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf2d47648c574237b22f999c23ba424
+      internalID: 5396007308831003135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd39b313ec7ad41a5bc6a8bcfe218a2c
+      internalID: -1810794061865367835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84bce871d76a439095c5a53fe3ccaba
+      internalID: -1371123955323069955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ce737c78057478d8cacb81d69908a7
+      internalID: -4756938258959478620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_63
+      rect:
+        serializedVersion: 2
+        x: 9800
+        y: 1400
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf20f1ff91b3947ce8ae05024b2f474a
+      internalID: 3810086079960850666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda43edab22f14ca88c93c0608d16e85
+      internalID: -4890449460004859916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_65
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4424d86ba1f44bbb99a0661d66fd01
+      internalID: 5417894729232367775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_66
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dce4434732747649af5e0717ce59bb
+      internalID: 3177737926063156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_67
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 0
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072e44440e7994e98b43163d71eff886
+      internalID: 4520220622609286731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_68
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253bec95be85c4e049f946e339ebe0b4
+      internalID: -1062895050940372868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 7000
+        y: 0
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d59f986b82040ed9a89398b15f29c7
+      internalID: 171650241778267837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meteor_Rotation_Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 8400
+        y: 0
+        width: 1400
+        height: 1400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9347b8e96a184107b563ea7e355a7d9
+      internalID: -7082108065718447586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

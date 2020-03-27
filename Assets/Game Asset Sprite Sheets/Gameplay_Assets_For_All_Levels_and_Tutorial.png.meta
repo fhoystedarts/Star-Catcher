@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: 20a9ef1201ec14dae9c7aeb784492c18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7224742260847231900
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_0
+  - first:
+      213: -5687331984439847982
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_1
+  - first:
+      213: -8934624169458451117
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_2
+  - first:
+      213: -4905642694812639616
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_3
+  - first:
+      213: 6835173662197539173
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_4
+  - first:
+      213: -3734795287606460591
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_5
+  - first:
+      213: -4722780564777361146
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_6
+  - first:
+      213: -5260391204039082017
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_7
+  - first:
+      213: 3984325135511883836
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_9
+  - first:
+      213: -1519581674347054896
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_10
+  - first:
+      213: 6094167904483972634
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_12
+  - first:
+      213: -8961274671681452313
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_13
+  - first:
+      213: -1909146732034108778
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_15
+  - first:
+      213: -4703567304861835192
+    second: Gameplay_Assets_For_All_Levels_and_Tutorial_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2571
+        width: 483
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00d71093101747bcafe0e10fe96ff6d
+      internalID: 7224742260847231900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_1
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 2568
+        width: 484
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112eca7bb7f1542668e7267cc2bf1b67
+      internalID: -5687331984439847982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_2
+      rect:
+        serializedVersion: 2
+        x: 1232
+        y: 2571
+        width: 483
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58085f4efdc624992bd60756a4490199
+      internalID: -8934624169458451117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_3
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 2506
+        width: 556
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c41686c30a84100bebf928d8a6f6c2
+      internalID: -4905642694812639616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_4
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2229
+        width: 418
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9466eb4de4694eebae575a94dbdf46e
+      internalID: 6835173662197539173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_5
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 2149
+        width: 383
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e58b82d48b54176adb028e59c2421b
+      internalID: -3734795287606460591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_6
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 2222
+        width: 254
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28fb642440924184a5d2c50be8d1481
+      internalID: -4722780564777361146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_7
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 980
+        width: 1257
+        height: 1260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dbf0daccb1574b51894bd064eb34c64
+      internalID: -5260391204039082017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_9
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1484
+        width: 1081
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b627c8572c7724a0f99d0f80e1db46b5
+      internalID: 3984325135511883836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_10
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 1008
+        width: 1268
+        height: 1111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382e4776877254235ae4783767001849
+      internalID: -1519581674347054896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_12
+      rect:
+        serializedVersion: 2
+        x: 4389
+        y: 988
+        width: 875
+        height: 967
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84ce981c2a9a46a482f30af5ae09244
+      internalID: 6094167904483972634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 793
+        width: 1081
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f162c3882cd4a9eb864e710cafd31d
+      internalID: -8961274671681452313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 101
+        width: 1081
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfa461aa29e043878b8539798c16c17
+      internalID: -1909146732034108778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gameplay_Assets_For_All_Levels_and_Tutorial_16
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 101
+        width: 4148
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334dd16d10ede441b8dfe101d85f3b29
+      internalID: -4703567304861835192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

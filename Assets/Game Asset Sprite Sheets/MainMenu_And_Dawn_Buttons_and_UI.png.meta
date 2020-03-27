@@ -1,0 +1,727 @@
+fileFormatVersion: 2
+guid: 5aeef85d34a274580a81fcd38be3976e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5061408979747877380
+    second: MainMenu_And_Dawn_Buttons_and_UI_0
+  - first:
+      213: -4123995632100233830
+    second: MainMenu_And_Dawn_Buttons_and_UI_1
+  - first:
+      213: 1829832387722031265
+    second: MainMenu_And_Dawn_Buttons_and_UI_2
+  - first:
+      213: -1586330984189773
+    second: MainMenu_And_Dawn_Buttons_and_UI_3
+  - first:
+      213: -6094551593372915730
+    second: MainMenu_And_Dawn_Buttons_and_UI_4
+  - first:
+      213: 4640675116637338318
+    second: MainMenu_And_Dawn_Buttons_and_UI_5
+  - first:
+      213: 1377292594390953321
+    second: MainMenu_And_Dawn_Buttons_and_UI_6
+  - first:
+      213: 1344538002557759488
+    second: MainMenu_And_Dawn_Buttons_and_UI_7
+  - first:
+      213: -4459988047176200262
+    second: MainMenu_And_Dawn_Buttons_and_UI_8
+  - first:
+      213: -5918562260658647330
+    second: MainMenu_And_Dawn_Buttons_and_UI_9
+  - first:
+      213: -3611478963553111889
+    second: MainMenu_And_Dawn_Buttons_and_UI_10
+  - first:
+      213: 3180376714385132583
+    second: MainMenu_And_Dawn_Buttons_and_UI_11
+  - first:
+      213: -4212131970507044380
+    second: MainMenu_And_Dawn_Buttons_and_UI_12
+  - first:
+      213: 3712313443624881352
+    second: MainMenu_And_Dawn_Buttons_and_UI_13
+  - first:
+      213: -549208826514461395
+    second: MainMenu_And_Dawn_Buttons_and_UI_14
+  - first:
+      213: 5850841884229344525
+    second: MainMenu_And_Dawn_Buttons_and_UI_15
+  - first:
+      213: 735589051690544690
+    second: MainMenu_And_Dawn_Buttons_and_UI_16
+  - first:
+      213: 6917491983683423127
+    second: MainMenu_And_Dawn_Buttons_and_UI_17
+  - first:
+      213: 7250001358992753239
+    second: MainMenu_And_Dawn_Buttons_and_UI_18
+  - first:
+      213: -5763799291476483718
+    second: MainMenu_And_Dawn_Buttons_and_UI_19
+  - first:
+      213: -2637648103077552584
+    second: MainMenu_And_Dawn_Buttons_and_UI_20
+  - first:
+      213: 6242886950068297127
+    second: MainMenu_And_Dawn_Buttons_and_UI_21
+  - first:
+      213: -4788525953985284920
+    second: MainMenu_And_Dawn_Buttons_and_UI_22
+  - first:
+      213: 8978237952891470996
+    second: MainMenu_And_Dawn_Buttons_and_UI_23
+  - first:
+      213: -2569686510639058927
+    second: MainMenu_And_Dawn_Buttons_and_UI_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3929
+        width: 1625
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b94fd5a1c6c4ee683da95e4663308c
+      internalID: 5061408979747877380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_1
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 2243
+        width: 1937
+        height: 2210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb315a8f225c419dbeb1740384da9cf
+      internalID: -4123995632100233830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_2
+      rect:
+        serializedVersion: 2
+        x: 3745
+        y: 2135
+        width: 2014
+        height: 2291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b91e3ac3db584d98ad1b3f4af48fb08
+      internalID: 1829832387722031265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_3
+      rect:
+        serializedVersion: 2
+        x: 5824
+        y: 2154
+        width: 2010
+        height: 2291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5a520b0702b4b72b0cf284fc7c5c75
+      internalID: -1586330984189773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3240
+        width: 1625
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f577177ab0b1f4b41a7c3b444cc864d9
+      internalID: -6094551593372915730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2555
+        width: 1625
+        height: 442
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae7dca30fc5c4a91a8a7688aa19a3f8
+      internalID: 4640675116637338318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1927
+        width: 1625
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c47132bb84c4ab09dadb685554fa0d
+      internalID: 1377292594390953321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_7
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 2
+        width: 1940
+        height: 2210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7d6cf22b57c4445aeb096e02bb3dfb
+      internalID: 1344538002557759488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_8
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1658
+        width: 1125
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69033128543dc4115a611fb4c61f5ca3
+      internalID: -4459988047176200262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_9
+      rect:
+        serializedVersion: 2
+        x: 4961
+        y: 1658
+        width: 1125
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e42918299a064db8b9bdc9159f0bfd3
+      internalID: -5918562260658647330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_10
+      rect:
+        serializedVersion: 2
+        x: 6178
+        y: 1835
+        width: 177
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b167f4f76c38043889bd90201996fb07
+      internalID: -3611478963553111889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_11
+      rect:
+        serializedVersion: 2
+        x: 6575
+        y: 1739
+        width: 162
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b635812434bcd400c8eb53d6a742da01
+      internalID: 3180376714385132583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1242
+        width: 1625
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e3775f5308c4d7397e8fd9353b4db8
+      internalID: -4212131970507044380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_13
+      rect:
+        serializedVersion: 2
+        x: 6178
+        y: 1612
+        width: 179
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252969dfe99fd4fc19a5cf64f5146fdf
+      internalID: 3712313443624881352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_14
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1273
+        width: 1125
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40844493b69b24409a912434442394bb
+      internalID: -549208826514461395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_15
+      rect:
+        serializedVersion: 2
+        x: 4961
+        y: 1273
+        width: 1125
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e493a29e0b24f4b99900300814a4b54b
+      internalID: 5850841884229344525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_16
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 1388
+        width: 189
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779f5757e1d5b4a47ba2e8964bfc45e2
+      internalID: 735589051690544690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_17
+      rect:
+        serializedVersion: 2
+        x: 6571
+        y: 1427
+        width: 169
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6956345e94634fe9860395b06292887
+      internalID: 6917491983683423127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_18
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 814
+        width: 974
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f18702fbee30412db1b06cd8522e47f
+      internalID: 7250001358992753239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_19
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 1169
+        width: 189
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f508ec0925f1a4eed95d40f7ea60e8aa
+      internalID: -5763799291476483718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_20
+      rect:
+        serializedVersion: 2
+        x: 6571
+        y: 1130
+        width: 173
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85431197418974e719a4c84291b0b055
+      internalID: -2637648103077552584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 553
+        width: 1625
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc152779cf0e42ef96b46888b46626e
+      internalID: 6242886950068297127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_22
+      rect:
+        serializedVersion: 2
+        x: 6178
+        y: 853
+        width: 180
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a0130641b00482382c94109b90cf00
+      internalID: -4788525953985284920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_23
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 87
+        width: 365
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789c4277ebcbc4088809b7f28f777091
+      internalID: 8978237952891470996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainMenu_And_Dawn_Buttons_and_UI_24
+      rect:
+        serializedVersion: 2
+        x: 3722
+        y: 356
+        width: 974
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71e912ec3dae468892e10b3fc2168b4
+      internalID: -2569686510639058927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
