@@ -12,7 +12,6 @@ public class GameManager : MonoBehaviour
 
     public int health;
 
-    public Slider healthBar;
     public SceneChanger sceneChanger;
 
 
@@ -42,7 +41,7 @@ public class GameManager : MonoBehaviour
 
     public void UpdateScore()
     {
-        scoreText.text = "Score:" + score.ToString();
+        scoreText.text = score.ToString();
     }
     
 
