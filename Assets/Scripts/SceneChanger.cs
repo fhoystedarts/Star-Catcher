@@ -20,7 +20,7 @@ public class SceneChanger : MonoBehaviour
     void Start()
     {
         Time.timeScale = 1;
-        currentLvl = PlayerPrefs.GetInt("LvlStart");
+       
 
         /*if (tutorial == true)
         {
@@ -32,7 +32,7 @@ public class SceneChanger : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        currentLvl = PlayerPrefs.GetInt("LvlStart");
     }
 
     public void PauseUnpauseGame()
@@ -98,6 +98,11 @@ public class SceneChanger : MonoBehaviour
     public void ExitGame()
     {
         Application.Quit();
+    }
+
+    public void ResetTutorial()
+    {
+        PlayerPrefs.SetInt("LvlStart", 0);
     }
 
 }

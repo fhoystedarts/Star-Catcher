@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
 {
     [SerializeField]
     public Text scoreText;
+    public Text totalStarText;
 
     public int score;
 
@@ -14,12 +15,15 @@ public class GameManager : MonoBehaviour
 
     public SceneChanger sceneChanger;
 
-    private int totalStars;
+    public int totalStars;
+    public int starValue;
 
     private void Start()
     {
         score = 0;
+
         UpdateScore();
+        
     }
 
     public void Update()
@@ -30,9 +34,6 @@ public class GameManager : MonoBehaviour
                 Debug.Log("You Died");
             sceneChanger.LoadGameOver();
         }
-
-        PlayerPrefs.SetInt("totalStars", score);
-        totalStars = PlayerPrefs.GetInt("totalStars");
     }
 
     public void AddScore(int newScoreValue)
@@ -45,6 +46,8 @@ public class GameManager : MonoBehaviour
     {
         scoreText.text = score.ToString();
     }
+
+   
     
 
 }
