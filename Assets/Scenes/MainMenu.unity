@@ -301,6 +301,7 @@ MonoBehaviour:
   ShopScreen: Shop
   TutorialScene: Tutorial
   pauseMenu: {fileID: 0}
+  tutorial: 0
 --- !u!4 &296766610
 Transform:
   m_ObjectHideFlags: 0
@@ -401,7 +402,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 296766609}
-        m_MethodName: LoadNextScene
+        m_MethodName: StartGame
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

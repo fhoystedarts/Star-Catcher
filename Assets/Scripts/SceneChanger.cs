@@ -13,10 +13,19 @@ public class SceneChanger : MonoBehaviour
 
     public Canvas pauseMenu;
     private bool paused;
+
+    public bool tutorial;
+    private int currentLvl;
     // Start is called before the first frame update
     void Start()
     {
         Time.timeScale = 1;
+        currentLvl = PlayerPrefs.GetInt("LvlStart");
+
+        /*if (tutorial == true)
+        {
+            Time.timeScale = 0;
+        }*/
 
     }
 
@@ -46,9 +55,25 @@ public class SceneChanger : MonoBehaviour
 
     }
 
+    public void StartGame()
+    {
+        if(currentLvl == 0)
+        {
+            LoadTutorial();
+        }
+        else if(currentLvl == 1)
+        {
+            LoadNextScene();
+        }
+    }
+
     public void LoadNextScene()
     {
         SceneManager.LoadScene(nextScene);
+        if(tutorial == true)
+        {
+            PlayerPrefs.SetInt("LvlStart", 1);
+        }
     }
 
     public void LoadGameOver()

@@ -14,8 +14,7 @@ public class GameManager : MonoBehaviour
 
     public SceneChanger sceneChanger;
 
-
-
+    private int totalStars;
 
     private void Start()
     {
@@ -31,6 +30,9 @@ public class GameManager : MonoBehaviour
                 Debug.Log("You Died");
             sceneChanger.LoadGameOver();
         }
+
+        PlayerPrefs.SetInt("totalStars", score);
+        totalStars = PlayerPrefs.GetInt("totalStars");
     }
 
     public void AddScore(int newScoreValue)

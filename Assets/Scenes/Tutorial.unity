@@ -410,11 +410,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5390d2951c8224709aad05adcbb02c2b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextScene: level2
+  nextScene: level1
   GameOverScreen: GameOverScreen
   ShopScreen: 
   TutorialScene: 
   pauseMenu: {fileID: 879444403}
+  tutorial: 1
 --- !u!4 &335349248
 Transform:
   m_ObjectHideFlags: 0
@@ -1521,7 +1522,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 7d126f4f8016a456bba210afbb9c7203, type: 3}
     m_FontSize: 50
     m_FontStyle: 0
     m_BestFit: 0
@@ -1983,7 +1984,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
+    m_Font: {fileID: 12800000, guid: 7d126f4f8016a456bba210afbb9c7203, type: 3}
     m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
