@@ -6,7 +6,8 @@ public class starChase : MonoBehaviour
 
 {
     [SerializeField]
-    public GameManager gameManager;
+    public UIManager uiManager;
+   
 
 
     // Start is called before the first frame update
@@ -42,33 +43,34 @@ public class starChase : MonoBehaviour
     {
        if(collision.gameObject.CompareTag("yellow"))
         {
-            gameManager.score = gameManager.score + 1;
-            gameManager.UpdateScore();
+            GameManager.instance.score = GameManager.instance.score + 1;
+            uiManager.UpdateScore();
             collision.gameObject.SetActive(false);
+            Debug.Log("Yellow");
         }
        else if(collision.gameObject.CompareTag("blue"))
         {
-            gameManager.score = gameManager.score + 5;
-            gameManager.UpdateScore();
+            GameManager.instance.score = GameManager.instance.score + 5;
+            uiManager.UpdateScore();
             collision.gameObject.SetActive(false);
         }
         else if (collision.gameObject.CompareTag("rainbow"))
         {
-            gameManager.score = gameManager.score + 20;
-            gameManager.UpdateScore();
+            GameManager.instance.score = GameManager.instance.score + 20;
+            uiManager.UpdateScore();
             collision.gameObject.SetActive(false);
         }
         else if (collision.gameObject.CompareTag("black"))
         {
-            gameManager.score = gameManager.score - 20;
-            gameManager.UpdateScore();
+            GameManager.instance.score = GameManager.instance.score - 20;
+            uiManager.UpdateScore();
             collision.gameObject.SetActive(false);
         }
        else if (collision.gameObject.CompareTag("meteor"))
         {
-            gameManager.health = gameManager.health - 1;
+            GameManager.instance.health = GameManager.instance.health - 1;
             collision.gameObject.SetActive(false);
-            Debug.Log("Health:" + gameManager.health);
+            Debug.Log("Health:" + GameManager.instance.health);
         }
     }
 }

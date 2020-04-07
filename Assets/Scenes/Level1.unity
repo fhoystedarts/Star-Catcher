@@ -248,6 +248,9 @@ GameObject:
   m_Component:
   - component: {fileID: 85314362}
   - component: {fileID: 85314361}
+  - component: {fileID: 85314364}
+  - component: {fileID: 85314363}
+  - component: {fileID: 85314365}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -287,6 +290,53 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &85314363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 85314360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4854fc1e76008417689b0ff37494d842, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeLeft: 200
+  timerText: {fileID: 2073662541}
+  sceneChanger: {fileID: 85314361}
+--- !u!114 &85314364
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 85314360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13f83c00072cc4d978ed441ffa5a1e7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreText: {fileID: 1178173465}
+--- !u!114 &85314365
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 85314360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71d2942c434be4e3b8b6121015b3358f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnItems:
+  - {fileID: 3514273026189311957, guid: ab8fef1e0ac7146c695de74e8d13164a, type: 3}
+  - {fileID: 3514273026189311957, guid: ab8fef1e0ac7146c695de74e8d13164a, type: 3}
+  - {fileID: 1708256530458875385, guid: 0b515d8ca245743c3b14b3bd47d67b84, type: 3}
+  spawnPoint: {fileID: 1907108894}
+  minDelay: 0.1
+  maxDelay: 1
 --- !u!1 &177436904
 GameObject:
   m_ObjectHideFlags: 0
@@ -1881,6 +1931,11 @@ PrefabInstance:
       propertyPath: gameManager
       value: 
       objectReference: {fileID: 2020222875}
+    - target: {fileID: 4932469085027987677, guid: 00d6a77accf5242c6b33cbc84cc10e63,
+        type: 3}
+      propertyPath: uiManager
+      value: 
+      objectReference: {fileID: 85314364}
     - target: {fileID: 4932469085027987678, guid: 00d6a77accf5242c6b33cbc84cc10e63,
         type: 3}
       propertyPath: m_Name

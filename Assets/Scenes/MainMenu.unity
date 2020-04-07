@@ -612,13 +612,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fbf0ea42589df40e385dc296da47127a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreText: {fileID: 0}
-  totalStarText: {fileID: 1641321188}
   score: 0
-  health: 0
-  sceneChanger: {fileID: 0}
+  health: 3
   totalStars: 0
-  starValue: 0
 --- !u!4 &1233888692
 Transform:
   m_ObjectHideFlags: 0

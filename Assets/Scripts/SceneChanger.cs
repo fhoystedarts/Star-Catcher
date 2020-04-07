@@ -20,12 +20,6 @@ public class SceneChanger : MonoBehaviour
     void Start()
     {
         Time.timeScale = 1;
-       
-
-        /*if (tutorial == true)
-        {
-            Time.timeScale = 0;
-        }*/
 
     }
 
@@ -33,6 +27,13 @@ public class SceneChanger : MonoBehaviour
     void Update()
     {
         currentLvl = PlayerPrefs.GetInt("LvlStart");
+
+        if (GameManager.instance.health <= 0)
+        {
+            Time.timeScale = 0;
+            Debug.Log("You Died");
+            LoadGameOver();
+        }
     }
 
     public void PauseUnpauseGame()
@@ -65,6 +66,7 @@ public class SceneChanger : MonoBehaviour
         {
             LoadNextScene();
         }
+        GameManager.instance.score = 0;
     }
 
     public void LoadNextScene()

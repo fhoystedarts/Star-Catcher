@@ -9,9 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6789960568855349811}
-  - component: {fileID: 6789960568855349808}
   - component: {fileID: 6789960568855349810}
-  - component: {fileID: 176398253354586169}
   m_Layer: 0
   m_Name: GameManager
   m_TagString: Untagged
@@ -33,25 +31,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &6789960568855349808
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6789960568855349809}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 71d2942c434be4e3b8b6121015b3358f, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  spawnItems:
-  - {fileID: 3514273026189311957, guid: ab8fef1e0ac7146c695de74e8d13164a, type: 3}
-  - {fileID: 3514273026189311957, guid: ab8fef1e0ac7146c695de74e8d13164a, type: 3}
-  - {fileID: 1708256530458875385, guid: 0b515d8ca245743c3b14b3bd47d67b84, type: 3}
-  spawnPoint: {fileID: 0}
-  minDelay: 0.5
-  maxDelay: 2
 --- !u!114 &6789960568855349810
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -65,22 +44,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 0}
+  totalStarText: {fileID: 0}
   score: 0
   health: 3
-  healthBar: {fileID: 0}
   sceneChanger: {fileID: 0}
---- !u!114 &176398253354586169
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6789960568855349809}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4854fc1e76008417689b0ff37494d842, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  timeLeft: 100
-  timerText: {fileID: 0}
-  sceneChanger: {fileID: 0}
+  totalStars: 0
+  starValue: 0

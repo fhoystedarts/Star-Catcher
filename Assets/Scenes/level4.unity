@@ -545,6 +545,9 @@ GameObject:
   m_Component:
   - component: {fileID: 620970705}
   - component: {fileID: 620970704}
+  - component: {fileID: 620970708}
+  - component: {fileID: 620970707}
+  - component: {fileID: 620970706}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -584,6 +587,60 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &620970706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 620970703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13f83c00072cc4d978ed441ffa5a1e7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreText: {fileID: 163914343}
+--- !u!114 &620970707
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 620970703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4854fc1e76008417689b0ff37494d842, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeLeft: 200
+  timerText: {fileID: 761455806}
+  sceneChanger: {fileID: 620970704}
+--- !u!114 &620970708
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 620970703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71d2942c434be4e3b8b6121015b3358f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnItems:
+  - {fileID: 3514273026189311957, guid: ab8fef1e0ac7146c695de74e8d13164a, type: 3}
+  - {fileID: 3514273026189311957, guid: ab8fef1e0ac7146c695de74e8d13164a, type: 3}
+  - {fileID: 3514273026189311957, guid: ab8fef1e0ac7146c695de74e8d13164a, type: 3}
+  - {fileID: 1708256530458875385, guid: 0b515d8ca245743c3b14b3bd47d67b84, type: 3}
+  - {fileID: 1708256530458875385, guid: 0b515d8ca245743c3b14b3bd47d67b84, type: 3}
+  - {fileID: 1708256530458875385, guid: 0b515d8ca245743c3b14b3bd47d67b84, type: 3}
+  - {fileID: 2205992172005911105, guid: c9d4a94d461bb410284b8748fe866293, type: 3}
+  - {fileID: 2205992172005911105, guid: c9d4a94d461bb410284b8748fe866293, type: 3}
+  - {fileID: 7282908850910747141, guid: a1b90c511647a421f8c781541f6942fe, type: 3}
+  - {fileID: 6928024237259986275, guid: 83c08172d3e264148817eada34a03521, type: 3}
+  spawnPoint: {fileID: 22655551}
+  minDelay: 0.1
+  maxDelay: 1
 --- !u!1 &721286995
 GameObject:
   m_ObjectHideFlags: 0
@@ -982,6 +1039,11 @@ PrefabInstance:
       propertyPath: gameManager
       value: 
       objectReference: {fileID: 1038726380}
+    - target: {fileID: 4932469085027987677, guid: 00d6a77accf5242c6b33cbc84cc10e63,
+        type: 3}
+      propertyPath: uiManager
+      value: 
+      objectReference: {fileID: 620970706}
     - target: {fileID: 4932469085027987678, guid: 00d6a77accf5242c6b33cbc84cc10e63,
         type: 3}
       propertyPath: m_Name

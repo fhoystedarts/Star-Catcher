@@ -130,6 +130,9 @@ GameObject:
   m_Component:
   - component: {fileID: 293579669}
   - component: {fileID: 293579668}
+  - component: {fileID: 293579672}
+  - component: {fileID: 293579671}
+  - component: {fileID: 293579670}
   m_Layer: 0
   m_Name: SceneManager
   m_TagString: Untagged
@@ -169,6 +172,58 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &293579670
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 293579667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13f83c00072cc4d978ed441ffa5a1e7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  scoreText: {fileID: 1694242207}
+--- !u!114 &293579671
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 293579667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4854fc1e76008417689b0ff37494d842, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeLeft: 200
+  timerText: {fileID: 506752542}
+  sceneChanger: {fileID: 293579668}
+--- !u!114 &293579672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 293579667}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71d2942c434be4e3b8b6121015b3358f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnItems:
+  - {fileID: 3514273026189311957, guid: ab8fef1e0ac7146c695de74e8d13164a, type: 3}
+  - {fileID: 3514273026189311957, guid: ab8fef1e0ac7146c695de74e8d13164a, type: 3}
+  - {fileID: 1708256530458875385, guid: 0b515d8ca245743c3b14b3bd47d67b84, type: 3}
+  - {fileID: 1708256530458875385, guid: 0b515d8ca245743c3b14b3bd47d67b84, type: 3}
+  - {fileID: 2205992172005911105, guid: c9d4a94d461bb410284b8748fe866293, type: 3}
+  - {fileID: 2205992172005911105, guid: c9d4a94d461bb410284b8748fe866293, type: 3}
+  - {fileID: 6928024237259986275, guid: 83c08172d3e264148817eada34a03521, type: 3}
+  - {fileID: 3514273026189311957, guid: ab8fef1e0ac7146c695de74e8d13164a, type: 3}
+  spawnPoint: {fileID: 0}
+  minDelay: 0.1
+  maxDelay: 1
 --- !u!1 &410714615
 GameObject:
   m_ObjectHideFlags: 0
