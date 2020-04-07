@@ -20,12 +20,6 @@ public class SceneChanger : MonoBehaviour
     void Start()
     {
         Time.timeScale = 1;
-       
-
-        /*if (tutorial == true)
-        {
-            Time.timeScale = 0;
-        }*/
 
     }
 
