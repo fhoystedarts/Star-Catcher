@@ -7,6 +7,7 @@ public class UIManager : MonoBehaviour
 {
     public Text scoreText;
     public Text totalText;
+    public Text shopTotalText;
     
 
     // Start is called before the first frame update
@@ -29,6 +30,7 @@ public class UIManager : MonoBehaviour
     public void UpdateTotal()
     {
         totalText.text = GameManager.instance.totalStars.ToString();
+        shopTotalText.text = GameManager.instance.totalStars.ToString();
         Debug.Log("Displaying Scores");
     }
 }
