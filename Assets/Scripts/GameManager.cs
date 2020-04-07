@@ -5,33 +5,18 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager instance;
-
     [SerializeField]
     public Text scoreText;
     public Text totalStarText;
 
     public int score;
-    public int totalScore;
 
     public int health;
 
     public SceneChanger sceneChanger;
 
-
-    private void Awake()
-    {
-        if (instance != null)
-        {
-            Destroy(gameObject);
-            return;
-        }
-        else
-        {
-            instance = this;
-        }
-        DontDestroyOnLoad(gameObject);
-    }
+    public int totalStars;
+    public int starValue;
 
     private void Start()
     {
