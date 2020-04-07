@@ -16,6 +16,8 @@ public class SceneChanger : MonoBehaviour
 
     public bool tutorial;
     private int currentLvl;
+
+    public bool winScreen;
     // Start is called before the first frame update
     void Start()
     {
@@ -76,6 +78,11 @@ public class SceneChanger : MonoBehaviour
         {
             PlayerPrefs.SetInt("LvlStart", 1);
         }
+        if(winScreen == true)
+        {
+            GameManager.instance.AddTotalScore();
+            PlayerPrefs.SetInt("TotalScore", GameManager.instance.totalStars);
+        }
     }
 
     public void LoadGameOver()
@@ -105,6 +112,11 @@ public class SceneChanger : MonoBehaviour
     public void ResetTutorial()
     {
         PlayerPrefs.SetInt("LvlStart", 0);
+    }
+
+    public void ResetStars()
+    {
+        PlayerPrefs.SetInt("TotalScore", 0);
     }
 
 }

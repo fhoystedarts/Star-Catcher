@@ -39,13 +39,18 @@ public class GameManager : MonoBehaviour
 
     public void Update()
     {
-        
+        totalStars = PlayerPrefs.GetInt("TotalScore");
     }
 
     public void AddScore(int newScoreValue)
     {
         score += newScoreValue;
         FindObjectOfType<UIManager>().UpdateScore();
+    }
+
+    public void AddTotalScore()
+    {
+        totalStars = totalStars + score;
     }
 
    
