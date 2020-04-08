@@ -96,7 +96,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebe0bdbbf6b9343bb95b341aeb0797c1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  gameManager: {fileID: 0}
+  uiManager: {fileID: 0}
+  netUpgrade: 0
+  net: {fileID: 3984325135511883836, guid: 20a9ef1201ec14dae9c7aeb784492c18, type: 3}
+  slvrNet: {fileID: -8961274671681452313, guid: 20a9ef1201ec14dae9c7aeb784492c18,
+    type: 3}
+  gldNet: {fileID: -1909146732034108778, guid: 20a9ef1201ec14dae9c7aeb784492c18, type: 3}
 --- !u!61 &1571894366
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -114,7 +119,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 3.6033332, y: 2.1000788}
+    oldSize: {x: 3.6065843, y: 2.1000001}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0

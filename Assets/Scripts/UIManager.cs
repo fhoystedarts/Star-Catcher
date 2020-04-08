@@ -31,6 +31,8 @@ public class UIManager : MonoBehaviour
     {
         totalText.text = GameManager.instance.totalStars.ToString();
         shopTotalText.text = GameManager.instance.totalStars.ToString();
+        PlayerPrefs.SetInt("TotalScore", GameManager.instance.totalStars);
         Debug.Log("Displaying Scores");
+        Debug.Log(GameManager.instance.totalStars);
     }
 }

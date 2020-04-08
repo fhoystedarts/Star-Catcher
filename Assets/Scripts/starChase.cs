@@ -7,13 +7,30 @@ public class starChase : MonoBehaviour
 {
     [SerializeField]
     public UIManager uiManager;
+    public int netUpgrade;
+    public Sprite net;
+    public Sprite slvrNet;
+    public Sprite gldNet;
    
 
 
     // Start is called before the first frame update
     void Start()
 	{
-       
+        netUpgrade = PlayerPrefs.GetInt("NetUpgrade");
+        if (netUpgrade == 0)
+        {
+            this.GetComponent<SpriteRenderer>().sprite = net;
+        }
+       else if(netUpgrade == 1)
+        {
+            this.GetComponent<SpriteRenderer>().sprite = slvrNet;
+        }
+
+        else if(netUpgrade == 2)
+        {
+            this.GetComponent<SpriteRenderer>().sprite = gldNet;
+        }
 	}
 
 	// Update is called once per frame
@@ -38,6 +55,8 @@ public class starChase : MonoBehaviour
 
 
 		}
+
+        
 	}
     public void OnTriggerEnter2D(Collider2D collision)
     {
