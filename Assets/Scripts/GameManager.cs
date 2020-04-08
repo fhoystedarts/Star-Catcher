@@ -6,16 +6,19 @@ using UnityEngine.UI;
 public class GameManager : MonoBehaviour
 {
     public static GameManager instance;
+    
 
     [SerializeField]
 
     public int score;
-
     public int health;
-
     public int totalStars;
-   
-     private void Awake()
+    public int bubbleUses;
+    public int ufoUses;
+
+    public bool bubbleOn;
+
+    private void Awake()
     {
         if(instance != null)
         {
@@ -34,12 +37,14 @@ public class GameManager : MonoBehaviour
     {
  
        FindObjectOfType<UIManager>().UpdateScore();
-        
+   
     }
 
     public void Update()
     {
         totalStars = PlayerPrefs.GetInt("TotalScore");
+        bubbleUses = PlayerPrefs.GetInt("BubbleUses");
+        ufoUses = PlayerPrefs.GetInt("UFOUses");
     }
 
     public void AddScore(int newScoreValue)
@@ -52,10 +57,5 @@ public class GameManager : MonoBehaviour
     {
         totalStars = totalStars + score;
     }
-
-   
-
-   
-    
 
 }

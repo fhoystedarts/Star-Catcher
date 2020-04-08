@@ -133,7 +133,7 @@ GameObject:
   - component: {fileID: 72227882}
   - component: {fileID: 72227881}
   m_Layer: 5
-  m_Name: powerup
+  m_Name: bubbleButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -200,7 +200,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 72227882}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 85314364}
+        m_MethodName: UseBubble
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &72227882
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -276,6 +287,7 @@ MonoBehaviour:
   TutorialScene: 
   pauseMenu: {fileID: 520615969}
   tutorial: 0
+  winScreen: 0
 --- !u!4 &85314362
 Transform:
   m_ObjectHideFlags: 0
@@ -318,6 +330,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 1178173465}
+  totalText: {fileID: 0}
+  shopTotalText: {fileID: 0}
+  bubbleGameButton: {fileID: 72227879}
+  ufoGameButton: {fileID: 370609240}
+  bubble: {fileID: 4932469084208519399}
+  UFO: {fileID: 0}
 --- !u!114 &85314365
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -425,7 +443,7 @@ GameObject:
   - component: {fileID: 370609243}
   - component: {fileID: 370609242}
   m_Layer: 5
-  m_Name: powerup (1)
+  m_Name: ufoButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -492,7 +510,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 370609243}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 85314364}
+        m_MethodName: UseUFO
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &370609243
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1943,6 +1972,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00d6a77accf5242c6b33cbc84cc10e63, type: 3}
+--- !u!1 &4932469084208519399 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1427224999097442626, guid: 00d6a77accf5242c6b33cbc84cc10e63,
+    type: 3}
+  m_PrefabInstance: {fileID: 4932469084208519398}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &6789960569800781225
 PrefabInstance:
   m_ObjectHideFlags: 0

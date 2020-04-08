@@ -158,6 +158,7 @@ MonoBehaviour:
   TutorialScene: 
   pauseMenu: {fileID: 1476084569}
   tutorial: 0
+  winScreen: 0
 --- !u!4 &293579669
 Transform:
   m_ObjectHideFlags: 0
@@ -185,6 +186,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 1694242207}
+  totalText: {fileID: 0}
+  shopTotalText: {fileID: 0}
+  bubbleGameButton: {fileID: 1824360788}
+  ufoGameButton: {fileID: 1295606201}
+  bubble: {fileID: 1065435285}
+  UFO: {fileID: 0}
 --- !u!114 &293579671
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -940,6 +947,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00d6a77accf5242c6b33cbc84cc10e63, type: 3}
+--- !u!1 &1065435285 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1427224999097442626, guid: 00d6a77accf5242c6b33cbc84cc10e63,
+    type: 3}
+  m_PrefabInstance: {fileID: 1065435284}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1295606201
 GameObject:
   m_ObjectHideFlags: 0
@@ -953,7 +966,7 @@ GameObject:
   - component: {fileID: 1295606204}
   - component: {fileID: 1295606203}
   m_Layer: 5
-  m_Name: powerup (1)
+  m_Name: ufoButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1020,7 +1033,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1295606204}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 293579670}
+        m_MethodName: UseUFO
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1295606204
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1729,7 +1753,7 @@ GameObject:
   - component: {fileID: 1824360791}
   - component: {fileID: 1824360790}
   m_Layer: 5
-  m_Name: powerup
+  m_Name: bubbleButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1796,7 +1820,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1824360791}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 293579670}
+        m_MethodName: UseBubble
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1824360791
 MonoBehaviour:
   m_ObjectHideFlags: 0

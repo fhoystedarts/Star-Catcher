@@ -202,7 +202,7 @@ GameObject:
   - component: {fileID: 141902833}
   - component: {fileID: 141902832}
   m_Layer: 5
-  m_Name: powerup (1)
+  m_Name: ufoButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -269,7 +269,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 141902833}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 335349251}
+        m_MethodName: UseUFO
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &141902833
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -419,6 +430,7 @@ MonoBehaviour:
   TutorialScene: 
   pauseMenu: {fileID: 879444403}
   tutorial: 1
+  winScreen: 0
 --- !u!4 &335349248
 Transform:
   m_ObjectHideFlags: 0
@@ -481,6 +493,12 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreText: {fileID: 1672775669}
+  totalText: {fileID: 0}
+  shopTotalText: {fileID: 0}
+  bubbleGameButton: {fileID: 721862857}
+  ufoGameButton: {fileID: 141902830}
+  bubble: {fileID: 1246979290}
+  UFO: {fileID: 0}
 --- !u!1 &440665845
 GameObject:
   m_ObjectHideFlags: 0
@@ -727,7 +745,7 @@ GameObject:
   - component: {fileID: 721862860}
   - component: {fileID: 721862859}
   m_Layer: 5
-  m_Name: powerup
+  m_Name: bubbleButton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -794,7 +812,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 721862860}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 335349251}
+        m_MethodName: UseBubble
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &721862860
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1328,26 +1357,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -90
       objectReference: {fileID: 0}
-    - target: {fileID: 4932469085027987676, guid: 00d6a77accf5242c6b33cbc84cc10e63,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4932469085027987676, guid: 00d6a77accf5242c6b33cbc84cc10e63,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4932469085027987676, guid: 00d6a77accf5242c6b33cbc84cc10e63,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4932469085027987677, guid: 00d6a77accf5242c6b33cbc84cc10e63,
-        type: 3}
-      propertyPath: gameManager
-      value: 
-      objectReference: {fileID: 1803726115}
     - target: {fileID: 4932469085027987677, guid: 00d6a77accf5242c6b33cbc84cc10e63,
         type: 3}
       propertyPath: uiManager
@@ -1358,13 +1367,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    - target: {fileID: 4932469085027987678, guid: 00d6a77accf5242c6b33cbc84cc10e63,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 00d6a77accf5242c6b33cbc84cc10e63, type: 3}
+--- !u!1 &1246979290 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1427224999097442626, guid: 00d6a77accf5242c6b33cbc84cc10e63,
+    type: 3}
+  m_PrefabInstance: {fileID: 1246979289}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1568230388
 GameObject:
   m_ObjectHideFlags: 0
@@ -1678,18 +1688,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b5a74ceb40cd6423d8215cfb52d9fcc7, type: 3}
---- !u!114 &1803726115 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 6789960568855349810, guid: b5a74ceb40cd6423d8215cfb52d9fcc7,
-    type: 3}
-  m_PrefabInstance: {fileID: 1803726114}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fbf0ea42589df40e385dc296da47127a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1923796385
 GameObject:
   m_ObjectHideFlags: 0

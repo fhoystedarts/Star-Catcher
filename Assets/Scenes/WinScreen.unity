@@ -359,6 +359,10 @@ MonoBehaviour:
   scoreText: {fileID: 1100253880}
   totalText: {fileID: 0}
   shopTotalText: {fileID: 0}
+  bubbleGameButton: {fileID: 0}
+  ufoGameButton: {fileID: 0}
+  bubble: {fileID: 0}
+  UFO: {fileID: 0}
 --- !u!1 &568303583
 GameObject:
   m_ObjectHideFlags: 0

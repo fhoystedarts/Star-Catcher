@@ -11,8 +11,7 @@ public class starChase : MonoBehaviour
     public Sprite net;
     public Sprite slvrNet;
     public Sprite gldNet;
-   
-
+  
 
     // Start is called before the first frame update
     void Start()
@@ -85,7 +84,7 @@ public class starChase : MonoBehaviour
             uiManager.UpdateScore();
             collision.gameObject.SetActive(false);
         }
-       else if (collision.gameObject.CompareTag("meteor"))
+       else if (collision.gameObject.CompareTag("meteor")&& GameManager.instance.bubbleOn == false)
         {
             GameManager.instance.health = GameManager.instance.health - 1;
             collision.gameObject.SetActive(false);

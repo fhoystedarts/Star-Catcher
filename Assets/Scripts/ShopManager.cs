@@ -23,6 +23,8 @@ public class ShopManager : MonoBehaviour
     public Button gldNetButton;
     public Button bubbleButton;
     public Button ufoButton;
+    public Button littleDipper;
+    public Button bigDipper;
 
     // Start is called before the first frame update
     void Start()
@@ -37,6 +39,8 @@ public class ShopManager : MonoBehaviour
         }
 
         shopOpen = false;
+        littleDipper.interactable = false;
+        bigDipper.interactable = false;
     }
 
     // Update is called once per frame
@@ -60,6 +64,14 @@ public class ShopManager : MonoBehaviour
         if(GameManager.instance.totalStars >= 10000 && goldNet == false)
         {
             gldNetButton.interactable = true;
+        }
+        if(GameManager.instance.totalStars >= 200)
+        {
+            bubbleButton.interactable = true;
+        }
+        if(GameManager.instance.totalStars >= 300)
+        {
+            ufoButton.interactable = true;
         }
     }
 
@@ -119,4 +131,19 @@ public class ShopManager : MonoBehaviour
         FindObjectOfType<UIManager>().UpdateTotal();
     }
 
+    public void BuyBubble()
+    {
+        GameManager.instance.totalStars = GameManager.instance.totalStars - 200;
+        bubbleUses++;
+        PlayerPrefs.SetInt("BubbleUses", bubbleUses);
+        FindObjectOfType<UIManager>().UpdateTotal();
+    }
+
+    public void BuyUFO()
+    {
+        GameManager.instance.totalStars = GameManager.instance.totalStars - 300;
+        ufoUses++;
+        PlayerPrefs.SetInt("ufoUses", ufoUses);
+        FindObjectOfType<UIManager>().UpdateTotal();
+    }
 }

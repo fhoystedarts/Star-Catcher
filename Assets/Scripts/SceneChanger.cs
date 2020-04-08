@@ -119,4 +119,15 @@ public class SceneChanger : MonoBehaviour
         PlayerPrefs.SetInt("TotalScore", 0);
     }
 
+    public void ResetPowerUps()
+    {
+        PlayerPrefs.SetInt("BubbleUses", 0);
+        PlayerPrefs.SetInt("UFOUses", 0);
+    }
+
+    public void ResetNets()
+    {
+        PlayerPrefs.SetInt("NetUpgrade", 0);
+    }
+
 }
