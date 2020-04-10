@@ -7,7 +7,7 @@ using UnityEngine.UI;
 public class SceneChanger : MonoBehaviour
 {
     public string nextScene;
-    public string GameOverScreen;
+    public GameObject GameOverScreen;
     public string ShopScreen;
     public string TutorialScene;
 
@@ -22,6 +22,7 @@ public class SceneChanger : MonoBehaviour
     void Start()
     {
         Time.timeScale = 1;
+        GameOverScreen.gameObject.SetActive(false);
 
     }
 
@@ -87,7 +88,7 @@ public class SceneChanger : MonoBehaviour
 
     public void LoadGameOver()
     {
-        SceneManager.LoadScene(GameOverScreen);
+        GameOverScreen.gameObject.SetActive(true); 
     }
 
 

@@ -8,11 +8,22 @@ public class Spawner : MonoBehaviour
     public Transform spawnPoint;
     public float minDelay = 0.1f;
     public float maxDelay = 1f;
+    public bool tutorial;
+
 
     // Start is called before the first frame update
     void Start()
     {
-        StartCoroutine("SpawnItems");  
+        tutorial = FindObjectOfType<SceneChanger>().tutorial;
+        if(tutorial == false)
+        {
+            SpawnerOn();
+        }
+       
+    }
+    public void SpawnerOn()
+    {
+        StartCoroutine("SpawnItems");
     }
 
     // Update is called once per frame
