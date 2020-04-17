@@ -1,7 +1,67 @@
 fileFormatVersion: 2
 guid: 08f700e67d2dd462bb0cff13110bea56
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2915152208511433467
+    second: Rainbow_Star_Catch_Sheet_0
+  - first:
+      213: -3038581309380700321
+    second: Rainbow_Star_Catch_Sheet_1
+  - first:
+      213: 317449413297873678
+    second: Rainbow_Star_Catch_Sheet_2
+  - first:
+      213: 138083890956385868
+    second: Rainbow_Star_Catch_Sheet_3
+  - first:
+      213: -3121922210520598281
+    second: Rainbow_Star_Catch_Sheet_4
+  - first:
+      213: -4225623156011854702
+    second: Rainbow_Star_Catch_Sheet_5
+  - first:
+      213: 7755450658810296697
+    second: Rainbow_Star_Catch_Sheet_6
+  - first:
+      213: -9149246210631483684
+    second: Rainbow_Star_Catch_Sheet_7
+  - first:
+      213: 2952183152025067584
+    second: Rainbow_Star_Catch_Sheet_8
+  - first:
+      213: -3478617978961019961
+    second: Rainbow_Star_Catch_Sheet_9
+  - first:
+      213: -6194157324590716333
+    second: Rainbow_Star_Catch_Sheet_10
+  - first:
+      213: 6934139982874304101
+    second: Rainbow_Star_Catch_Sheet_11
+  - first:
+      213: -3101553262470877679
+    second: Rainbow_Star_Catch_Sheet_12
+  - first:
+      213: -279385597608697940
+    second: Rainbow_Star_Catch_Sheet_13
+  - first:
+      213: -5260503029667138297
+    second: Rainbow_Star_Catch_Sheet_14
+  - first:
+      213: 5915801689205169498
+    second: Rainbow_Star_Catch_Sheet_15
+  - first:
+      213: -5723059147601716695
+    second: Rainbow_Star_Catch_Sheet_16
+  - first:
+      213: -2002518061509634461
+    second: Rainbow_Star_Catch_Sheet_17
+  - first:
+      213: 8781827823746500906
+    second: Rainbow_Star_Catch_Sheet_18
+  - first:
+      213: -8244588655856069531
+    second: Rainbow_Star_Catch_Sheet_19
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +100,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +168,427 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 2098
+        width: 820
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a419241bedd42dd88d86e97b9455c5
+      internalID: -2915152208511433467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 2098
+        width: 836
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c8897259e8949399d72ab82e733e66
+      internalID: -3038581309380700321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3082
+        y: 2098
+        width: 836
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6467fcf1a005944158a305780f5c1b66
+      internalID: 317449413297873678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4082
+        y: 2090
+        width: 836
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b574d29f23644da88a9df1434aa9127
+      internalID: 138083890956385868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 5074
+        y: 2090
+        width: 852
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa58ef9285f749fcb51a269b5a03e06
+      internalID: -3121922210520598281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 6074
+        y: 2090
+        width: 852
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcd5a11d0d5340d3af7780fcf1488f5
+      internalID: -4225623156011854702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 7074
+        y: 2090
+        width: 852
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8a6f407febb4ecbbeb8d68535689b5
+      internalID: 7755450658810296697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1082
+        width: 852
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69653223364ab4a0888ed406ad452149
+      internalID: -9149246210631483684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1082
+        width: 866
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606f17ffaf194434f9017d5e27ef6fa0
+      internalID: 2952183152025067584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1082
+        width: 866
+        height: 836
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3170febb3b31b499681fab42a6f2fc9b
+      internalID: -3478617978961019961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3067
+        y: 1074
+        width: 866
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47fcaa97f0064ba7b4fa006cb5e5882
+      internalID: -6194157324590716333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 4059
+        y: 1074
+        width: 882
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e48b4928986435bba70826404e9530
+      internalID: 6934139982874304101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5067
+        y: 1074
+        width: 866
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821d929fe16c942559863627ebbbe4a9
+      internalID: -3101553262470877679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6074
+        y: 1090
+        width: 852
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac622d1961c5490ebf179f52e9d3339
+      internalID: -279385597608697940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7090
+        y: 1098
+        width: 820
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b2044f1104f4dce979cf6a23aa463a
+      internalID: -5260503029667138297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 114
+        width: 804
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f1bcd177ee04191a6a1b92f478f704
+      internalID: 5915801689205169498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 121
+        width: 788
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878976c3a5c62476d94611fbe47463ee
+      internalID: -5723059147601716695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 137
+        width: 758
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904fa26566f8043ff9cc29b70ec5d72d
+      internalID: -2002518061509634461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3129
+        y: 145
+        width: 742
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72a2135f4047435eb46aad9106986fc
+      internalID: 8781827823746500906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rainbow_Star_Catch_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4129
+        y: 145
+        width: 742
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8dfeb63eeed45828b80d347e9ffc59
+      internalID: -8244588655856069531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

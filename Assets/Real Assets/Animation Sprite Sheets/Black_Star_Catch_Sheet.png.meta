@@ -1,7 +1,64 @@
 fileFormatVersion: 2
 guid: ab5b2dccd48cc447faff351eaf52ea9c
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6329782307938405932
+    second: Black_Star_Catch_Sheet_0
+  - first:
+      213: -4527825799860718959
+    second: Black_Star_Catch_Sheet_1
+  - first:
+      213: 6799590851950881659
+    second: Black_Star_Catch_Sheet_2
+  - first:
+      213: -6714846728217386765
+    second: Black_Star_Catch_Sheet_3
+  - first:
+      213: -6834038651644366217
+    second: Black_Star_Catch_Sheet_4
+  - first:
+      213: 2421913373565612052
+    second: Black_Star_Catch_Sheet_5
+  - first:
+      213: 3250100584945289544
+    second: Black_Star_Catch_Sheet_6
+  - first:
+      213: -3894773312252028654
+    second: Black_Star_Catch_Sheet_7
+  - first:
+      213: 4144969159750726858
+    second: Black_Star_Catch_Sheet_8
+  - first:
+      213: 8575507937537066868
+    second: Black_Star_Catch_Sheet_9
+  - first:
+      213: 9167011056104005326
+    second: Black_Star_Catch_Sheet_10
+  - first:
+      213: 31025236158162830
+    second: Black_Star_Catch_Sheet_11
+  - first:
+      213: -1248145993114995884
+    second: Black_Star_Catch_Sheet_12
+  - first:
+      213: -5452927987786467170
+    second: Black_Star_Catch_Sheet_13
+  - first:
+      213: 5746226020543417391
+    second: Black_Star_Catch_Sheet_14
+  - first:
+      213: 5437046165913111494
+    second: Black_Star_Catch_Sheet_15
+  - first:
+      213: 2148605746847206175
+    second: Black_Star_Catch_Sheet_16
+  - first:
+      213: 5944237293568373355
+    second: Black_Star_Catch_Sheet_17
+  - first:
+      213: 1027115353631784061
+    second: Black_Star_Catch_Sheet_18
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +97,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +165,406 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1942
+        width: 826
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d430a356e0f84d9a82b4d829cd70de9
+      internalID: 6329782307938405932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1942
+        width: 826
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdfdfab5e4ce4e0b91444aadfb5af0d
+      internalID: -4527825799860718959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1934
+        width: 840
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1083057f6e2f34dc7acded753888c5de
+      internalID: 6799590851950881659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 1934
+        width: 840
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106fe495b64d947e89f8a406212b88b6
+      internalID: -6714846728217386765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 1934
+        width: 840
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b362f5d9634ea417dab833602631f1e9
+      internalID: -6834038651644366217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4720
+        y: 1927
+        width: 856
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cd4d53683eb471ca5aaa6e04300383
+      internalID: 2421913373565612052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5656
+        y: 1927
+        width: 856
+        height: 826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6264627b098e64968a514b0bc517b4ec
+      internalID: 3250100584945289544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 6585
+        y: 1920
+        width: 870
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7d4655b8d4b4b1faf2754fb77ff3d9
+      internalID: -3894773312252028654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 984
+        width: 870
+        height: 840
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12e5de0487664fcdb2d2e427f27c16d
+      internalID: 4144969159750726858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 976
+        width: 877
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec45e55d0f5484838b206637a662a1a9
+      internalID: 8575507937537066868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 969
+        width: 900
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c880266a01a74d478bff52dc2e7ccda
+      internalID: 9167011056104005326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2856
+        y: 998
+        width: 840
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89661618f5f0458ea97b72383410318
+      internalID: 31025236158162830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 1006
+        width: 826
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99ddb684f51f4d34a2135c40847c971
+      internalID: -1248145993114995884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 4742
+        y: 1013
+        width: 812
+        height: 782
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd8eead1ed0747e88a45937b24de248
+      internalID: -5452927987786467170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 5693
+        y: 1028
+        width: 782
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16d551f552cdc4d48927a7c307b03841
+      internalID: 5746226020543417391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 6636
+        y: 1035
+        width: 768
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297c19b04b1564798bf79217d6d10e91
+      internalID: 5437046165913111494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 106
+        width: 754
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8650365a2f554061802320ae81e82d0
+      internalID: 2148605746847206175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 106
+        width: 752
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a975b752afef943578c373c1c3b11b7c
+      internalID: 5944237293568373355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Black_Star_Catch_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1971
+        y: 113
+        width: 738
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 897fc35f3a053405f834247ac86e9561
+      internalID: 1027115353631784061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

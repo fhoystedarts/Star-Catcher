@@ -41,6 +41,10 @@ public class ShopManager : MonoBehaviour
         shopOpen = false;
         littleDipper.interactable = false;
         bigDipper.interactable = false;
+        slvrNetButton.interactable = false;
+        gldNetButton.interactable = false;
+        bubbleButton.interactable = false;
+        ufoButton.interactable = false;
     }
 
     // Update is called once per frame
@@ -96,21 +100,21 @@ public class ShopManager : MonoBehaviour
 
     public void OpenNetMenu()
     {
-        netMenu.gameObject.SetActive(true);
-        pwrUpMenu.gameObject.SetActive(false);
-        starsMenu.gameObject.SetActive(false);
+        netMenu.SetActive(true);
+        pwrUpMenu.SetActive(false);
+        starsMenu.SetActive(false);
     }
     public void OpenPwrUpMenu()
     {
-        pwrUpMenu.gameObject.SetActive(true);
-        netMenu.gameObject.SetActive(false);
-        starsMenu.gameObject.SetActive(false);
+        pwrUpMenu.SetActive(true);
+        netMenu.SetActive(false);
+        starsMenu.SetActive(false);
     }
     public void OpenStarsMenu()
     {
-        starsMenu.gameObject.SetActive(true);
-        netMenu.gameObject.SetActive(false);
-        pwrUpMenu.gameObject.SetActive(false);
+        starsMenu.SetActive(true);
+        netMenu.SetActive(false);
+        pwrUpMenu.SetActive(false);
     }
 
     public void BuySlvrNet()

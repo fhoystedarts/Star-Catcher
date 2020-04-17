@@ -13,8 +13,8 @@ public class TutorialManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        spawnItem.gameObject.SetActive(false);
-        spawner.gameObject.SetActive(false);
+        spawnItem.SetActive(false);
+        spawner.SetActive(false);
     }
 
     // Update is called once per frame
@@ -34,34 +34,37 @@ public class TutorialManager : MonoBehaviour
 
         if (popUpIndex == 0)
         {
-            if (touch.phase == TouchPhase.Stationary || touch.phase == TouchPhase.Moved)
+            if (touch.phase == TouchPhase.Began)
             {
                 popUpIndex++;
-                Debug.Log(popUpIndex);
             }
             
         }
         if (popUpIndex == 1)
         {
 
-            spawnItem.gameObject.SetActive(true);
+            spawnItem.SetActive(true);
             Debug.Log("Star spawned");
+            popUps[1].SetActive(true);
 
             if (GameManager.instance.score == 1)
             {
                 popUpIndex++;
-                Debug.Log(popUpIndex);
+                popUps[1].SetActive(false);
             }
         }
         if (popUpIndex == 2)
         {
-            spawner.gameObject.SetActive(true);
-            FindObjectOfType<Spawner>().SpawnerOn();
-            popUpIndex++;
-            Debug.Log(popUpIndex);
-            popUps[2].SetActive(false);
-
+            if (touch.phase == TouchPhase.Ended)
+            {
+                spawner.SetActive(true);
+                FindObjectOfType<Spawner>().SpawnerOn();
+                popUpIndex++;
+                popUps[2].SetActive(false);
+                
+            }
+      
         }
-        
+       
     }
 }

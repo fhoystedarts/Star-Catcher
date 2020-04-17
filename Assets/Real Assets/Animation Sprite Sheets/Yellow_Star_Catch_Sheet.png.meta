@@ -1,7 +1,67 @@
 fileFormatVersion: 2
 guid: ced7d4a75ae2f41c1b978d7aa44af9dc
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -2023857478303924504
+    second: Yellow_Star_Catch_Sheet_0
+  - first:
+      213: 4926116053158374418
+    second: Yellow_Star_Catch_Sheet_1
+  - first:
+      213: 5591302811794624172
+    second: Yellow_Star_Catch_Sheet_2
+  - first:
+      213: -3249638012029351064
+    second: Yellow_Star_Catch_Sheet_3
+  - first:
+      213: 5306319669606037795
+    second: Yellow_Star_Catch_Sheet_4
+  - first:
+      213: 5767127497456438208
+    second: Yellow_Star_Catch_Sheet_5
+  - first:
+      213: 105120757442104648
+    second: Yellow_Star_Catch_Sheet_6
+  - first:
+      213: 4230792233897852128
+    second: Yellow_Star_Catch_Sheet_7
+  - first:
+      213: -1491305931138631147
+    second: Yellow_Star_Catch_Sheet_8
+  - first:
+      213: 3669542321314050167
+    second: Yellow_Star_Catch_Sheet_9
+  - first:
+      213: -6320423789122819912
+    second: Yellow_Star_Catch_Sheet_10
+  - first:
+      213: -8908620642020882040
+    second: Yellow_Star_Catch_Sheet_11
+  - first:
+      213: -3406880187401068127
+    second: Yellow_Star_Catch_Sheet_12
+  - first:
+      213: -3221702346372359787
+    second: Yellow_Star_Catch_Sheet_13
+  - first:
+      213: -24977826880258263
+    second: Yellow_Star_Catch_Sheet_14
+  - first:
+      213: -817219609100706942
+    second: Yellow_Star_Catch_Sheet_15
+  - first:
+      213: -3702666909007734426
+    second: Yellow_Star_Catch_Sheet_16
+  - first:
+      213: -2042754045868593326
+    second: Yellow_Star_Catch_Sheet_17
+  - first:
+      213: 3538372541216873789
+    second: Yellow_Star_Catch_Sheet_18
+  - first:
+      213: -696896508553890972
+    second: Yellow_Star_Catch_Sheet_19
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +100,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +168,427 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e3386f96d56477484fc395e359f5af
+      internalID: -2023857478303924504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4082e86120f144961ad56f938ea4336d
+      internalID: 4926116053158374418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bc4a40003504b15b4ac8399191f417
+      internalID: 5591302811794624172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a9a66a88be6445da20c539a8747eba
+      internalID: -3249638012029351064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72014fdbf53b40ec8c5eee00256b12b
+      internalID: 5306319669606037795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f737a97eca584b0fa2b8fca843b52a6
+      internalID: 5767127497456438208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed4bc0bffbca48e1970ff22cfd9e651
+      internalID: 105120757442104648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44953c24cf054b4697d1a723e208657
+      internalID: 4230792233897852128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0066ff516204104b7bb30a80d9db9b
+      internalID: -1491305931138631147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2de208f3c4b42a1be5aa0ac2077aad
+      internalID: 3669542321314050167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86562e042ecd545c3b167f25ad28df42
+      internalID: -6320423789122819912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834615571883040efaa1a229e7c85957
+      internalID: -8908620642020882040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e277e6ad465d246449c2d88b9e4c28e1
+      internalID: -3406880187401068127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa11484c2c26f40d4960b8d669c1eafc
+      internalID: -3221702346372359787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 844de754cc87747ebb9c2f2fe5a78b10
+      internalID: -24977826880258263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e943610c1649945a39bf6e760a4b6c3e
+      internalID: -817219609100706942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 0
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af00baf7f14d4776a49c0ca2040cbd2
+      internalID: -3702666909007734426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 0
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10583d1a29ebc4b4a880f0a53832bf94
+      internalID: -2042754045868593326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 0
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8868d1240a1c54721b560d24cbd3f683
+      internalID: 3538372541216873789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yellow_Star_Catch_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 0
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4403f3259d456486ca68920ccde4a5c9
+      internalID: -696896508553890972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

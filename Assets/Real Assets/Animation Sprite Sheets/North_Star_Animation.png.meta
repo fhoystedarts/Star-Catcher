@@ -1,7 +1,58 @@
 fileFormatVersion: 2
 guid: 5aceacd59ab92444cbff8e3a6ee8d021
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4406040489149301120
+    second: North_Star_Animation_0
+  - first:
+      213: -7021702002756119786
+    second: North_Star_Animation_1
+  - first:
+      213: 2192460213965898067
+    second: North_Star_Animation_2
+  - first:
+      213: 708586708651701560
+    second: North_Star_Animation_3
+  - first:
+      213: 6284697552568036734
+    second: North_Star_Animation_4
+  - first:
+      213: -3670097285599716616
+    second: North_Star_Animation_5
+  - first:
+      213: 9071546110867397041
+    second: North_Star_Animation_6
+  - first:
+      213: 9041410609284281783
+    second: North_Star_Animation_7
+  - first:
+      213: 4661428369848097190
+    second: North_Star_Animation_8
+  - first:
+      213: 2693523364197712621
+    second: North_Star_Animation_9
+  - first:
+      213: -8903225706663894571
+    second: North_Star_Animation_10
+  - first:
+      213: -799307382004048385
+    second: North_Star_Animation_11
+  - first:
+      213: -9128723173804534992
+    second: North_Star_Animation_12
+  - first:
+      213: -7986226801149126924
+    second: North_Star_Animation_13
+  - first:
+      213: -7847547176981659900
+    second: North_Star_Animation_14
+  - first:
+      213: 4395711167601679186
+    second: North_Star_Animation_15
+  - first:
+      213: 2957232409257188681
+    second: North_Star_Animation_16
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +91,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 300
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +159,364 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: North_Star_Animation_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47692b6b938e842b787695549877e516
+      internalID: -4406040489149301120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_1
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d093c5367637642a79b9db32787477d2
+      internalID: -7021702002756119786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_2
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597469cea132b49ecbfac763ff20ec01
+      internalID: 2192460213965898067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_3
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65752f0273664ce09a4acef2993dafc
+      internalID: 708586708651701560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_4
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07dce563b32fd479abdf27e5ffcb379c
+      internalID: 6284697552568036734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_5
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aa238b793e54aa7b64c546565db81e
+      internalID: -3670097285599716616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_6
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bcb9361d517749c69ea47422427d6fc
+      internalID: 9071546110867397041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_7
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 1872
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc728221d0f84483aeb074d079ea859
+      internalID: 9041410609284281783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d9970c147d499b86ea51275c66079
+      internalID: 4661428369848097190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_9
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71158bc3545443589338d4cc630e9b7
+      internalID: 2693523364197712621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_10
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada2d73db8fae4dd490485c87823bfd0
+      internalID: -8903225706663894571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_11
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6770ee796006434fad8467476c7b2e7
+      internalID: -799307382004048385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_12
+      rect:
+        serializedVersion: 2
+        x: 3744
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2cab80c5b4b466d89dfe50c0c76318
+      internalID: -9128723173804534992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_13
+      rect:
+        serializedVersion: 2
+        x: 4680
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302c7ca4b493146a8a677f72f318a050
+      internalID: -7986226801149126924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_14
+      rect:
+        serializedVersion: 2
+        x: 5616
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cadc0dbdf451445ff95360fb6fd5b289
+      internalID: -7847547176981659900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_15
+      rect:
+        serializedVersion: 2
+        x: 6552
+        y: 936
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ff46236fc0c4b64a190ebb2696ed86
+      internalID: 4395711167601679186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: North_Star_Animation_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 936
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7264527f69764b9e839050065ea192d
+      internalID: 2957232409257188681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

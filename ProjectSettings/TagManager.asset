@@ -9,6 +9,7 @@ TagManager:
   - meteor
   - rainbow
   - yellow
+  - UFO
   layers:
   - Default
   - TransparentFX

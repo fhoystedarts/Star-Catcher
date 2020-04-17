@@ -11,6 +11,7 @@ public class starChase : MonoBehaviour
     public Sprite net;
     public Sprite slvrNet;
     public Sprite gldNet;
+
   
 
     // Start is called before the first frame update
@@ -20,15 +21,18 @@ public class starChase : MonoBehaviour
         if (netUpgrade == 0)
         {
             this.GetComponent<SpriteRenderer>().sprite = net;
+            GameManager.instance.health = 3;
         }
        else if(netUpgrade == 1)
         {
             this.GetComponent<SpriteRenderer>().sprite = slvrNet;
+            GameManager.instance.health = 5;
         }
 
         else if(netUpgrade == 2)
         {
             this.GetComponent<SpriteRenderer>().sprite = gldNet;
+            GameManager.instance.health = 10;
         }
 	}
 
@@ -63,8 +67,6 @@ public class starChase : MonoBehaviour
         {
             GameManager.instance.score = GameManager.instance.score + 1;
             uiManager.UpdateScore();
-            collision.gameObject.SetActive(false);
-            Debug.Log("Yellow");
         }
        else if(collision.gameObject.CompareTag("blue"))
         {

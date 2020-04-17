@@ -23,23 +23,23 @@ public class UIManager : MonoBehaviour
 
         if(GameManager.instance.bubbleUses >= 1)
         {
-            bubbleGameButton.gameObject.SetActive(true);
+            bubbleGameButton.SetActive(true);
         }
         else if(GameManager.instance.bubbleUses <= 0)
         {
-            bubbleGameButton.gameObject.SetActive(false);
+            bubbleGameButton.SetActive(false);
         }
         if(GameManager.instance.ufoUses >= 1)
         {
-            ufoGameButton.gameObject.SetActive(true);
+            ufoGameButton.SetActive(true);
         }
         else if(GameManager.instance.ufoUses <= 0)
         {
-            ufoGameButton.gameObject.SetActive(false);
+            ufoGameButton.SetActive(false);
         }
 
-        bubble.gameObject.SetActive(false);
-        UFO.gameObject.SetActive(false);
+        bubble.SetActive(false);
+        UFO.SetActive(false);
 
     }
 
@@ -65,7 +65,7 @@ public class UIManager : MonoBehaviour
     public void UseBubble()
     {
         FindObjectOfType<BubblePowerUP>().bubbleHealth = 3;
-        bubble.gameObject.SetActive(true);
+        bubble.SetActive(true);
         GameManager.instance.bubbleOn = true;
         GameManager.instance.bubbleUses--;
         PlayerPrefs.SetInt("BubbleUses", GameManager.instance.bubbleUses);
@@ -75,7 +75,7 @@ public class UIManager : MonoBehaviour
 
     public void UseUFO()
     {
-        UFO.gameObject.SetActive(true);
+        UFO.SetActive(true);
         GameManager.instance.ufoUses--;
         PlayerPrefs.SetInt("UFOUses", GameManager.instance.ufoUses);
     }

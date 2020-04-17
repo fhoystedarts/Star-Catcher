@@ -11,7 +11,7 @@ public class SceneChanger : MonoBehaviour
     public string ShopScreen;
     public string TutorialScene;
 
-    public Canvas pauseMenu;
+    public GameObject pauseMenu;
     private bool paused;
 
     public bool tutorial;
@@ -22,7 +22,7 @@ public class SceneChanger : MonoBehaviour
     void Start()
     {
         Time.timeScale = 1;
-        GameOverScreen.gameObject.SetActive(false);
+        GameOverScreen.SetActive(false);
 
     }
 
@@ -35,7 +35,7 @@ public class SceneChanger : MonoBehaviour
         {
             Time.timeScale = 0;
             Debug.Log("You Died");
-            LoadGameOver();
+            GameOverScreen.SetActive(true);
         }
     }
 
@@ -44,7 +44,7 @@ public class SceneChanger : MonoBehaviour
         if (paused == false)
         {
             paused = true;
-            pauseMenu.gameObject.SetActive(true);
+            pauseMenu.SetActive(true);
             Time.timeScale = 0;
             Debug.Log("GAME PAUSED");
         }
@@ -52,7 +52,7 @@ public class SceneChanger : MonoBehaviour
         else if (paused == true)
         {
             paused = false;
-            pauseMenu.gameObject.SetActive(false);
+            pauseMenu.SetActive(false);
             Time.timeScale = 1;
             Debug.Log("GAME UNPAUSED");
         }
@@ -86,16 +86,7 @@ public class SceneChanger : MonoBehaviour
         }
     }
 
-    public void LoadGameOver()
-    {
-        GameOverScreen.gameObject.SetActive(true); 
-    }
-
-
-    public void LoadShopScene()
-    {
-        SceneManager.LoadScene(ShopScreen);
-    }
+ 
     public void LoadMainMenu()
     {
         SceneManager.LoadScene(0);

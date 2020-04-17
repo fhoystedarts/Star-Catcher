@@ -1,7 +1,61 @@
 fileFormatVersion: 2
 guid: b007fee0eff6c49f69c48eb9f4faa23f
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4488629233234454328
+    second: Blue_Star_Catch_Sheet_0
+  - first:
+      213: -6143740322085864975
+    second: Blue_Star_Catch_Sheet_1
+  - first:
+      213: 2410128817045902301
+    second: Blue_Star_Catch_Sheet_2
+  - first:
+      213: -5481075328097774480
+    second: Blue_Star_Catch_Sheet_3
+  - first:
+      213: 1527706252239557041
+    second: Blue_Star_Catch_Sheet_4
+  - first:
+      213: -1731579820236850780
+    second: Blue_Star_Catch_Sheet_5
+  - first:
+      213: -5194574418593941570
+    second: Blue_Star_Catch_Sheet_6
+  - first:
+      213: -4400084311743977800
+    second: Blue_Star_Catch_Sheet_7
+  - first:
+      213: 3637453461658900743
+    second: Blue_Star_Catch_Sheet_8
+  - first:
+      213: -1328124036714365400
+    second: Blue_Star_Catch_Sheet_9
+  - first:
+      213: 7316316214041604506
+    second: Blue_Star_Catch_Sheet_10
+  - first:
+      213: -3524979428390376540
+    second: Blue_Star_Catch_Sheet_11
+  - first:
+      213: 700846367815948425
+    second: Blue_Star_Catch_Sheet_12
+  - first:
+      213: 5225372701375705583
+    second: Blue_Star_Catch_Sheet_13
+  - first:
+      213: -7184838178654491252
+    second: Blue_Star_Catch_Sheet_14
+  - first:
+      213: -5337376472027850636
+    second: Blue_Star_Catch_Sheet_15
+  - first:
+      213: -345098005576979370
+    second: Blue_Star_Catch_Sheet_16
+  - first:
+      213: 4701489886626699100
+    second: Blue_Star_Catch_Sheet_17
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,12 +94,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 500
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -108,7 +162,385 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 2121
+        width: 788
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feff2fcc152db45c2851431a849970b5
+      internalID: 4488629233234454328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 2106
+        y: 2121
+        width: 788
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828b2fd66033b42acb2896d939a0308f
+      internalID: -6143740322085864975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 3106
+        y: 2114
+        width: 796
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f563306ac75486db48d9aeddab02c7
+      internalID: 2410128817045902301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 4098
+        y: 2114
+        width: 804
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a02a05556704672b034a1a22929826
+      internalID: -5481075328097774480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 5098
+        y: 2114
+        width: 804
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bb0ec376664cacad9546179b8fc69
+      internalID: 1527706252239557041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 6098
+        y: 2106
+        width: 804
+        height: 780
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf681f9a71b004a99a9c266ec20a09a0
+      internalID: -1731579820236850780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 7090
+        y: 2106
+        width: 820
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46865599d1c524cf8b3950182eb939ab
+      internalID: -5194574418593941570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 1098
+        width: 820
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db6f8fe8bfd84137b3724fb4c47e651
+      internalID: -4400084311743977800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1082
+        y: 1098
+        width: 836
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0988aeb206b23417796a5581aca12210
+      internalID: 3637453461658900743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 1090
+        width: 836
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56beae30b26e4e829caa4dc14f60ed6
+      internalID: -1328124036714365400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 1090
+        width: 852
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 740cb009075644e858b5c96e5e39ac04
+      internalID: 7316316214041604506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 1106
+        width: 820
+        height: 788
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6663ebc94078a49ce99fdb377928d22c
+      internalID: -3524979428390376540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 5098
+        y: 1114
+        width: 804
+        height: 772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d57aa5da033f4a98a9cb142ecdcc1cc
+      internalID: 700846367815948425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 6106
+        y: 1121
+        width: 788
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4784065a8e69149da98f70cc14d56b81
+      internalID: 5225372701375705583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 7114
+        y: 1129
+        width: 772
+        height: 742
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1809d54026e461eb71d7dd10d3c72f
+      internalID: -7184838178654491252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 137
+        width: 758
+        height: 726
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80df841b869604f2a8e233f52d5cd770
+      internalID: -5337376472027850636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 145
+        width: 742
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80915a085e23542b9a186f94bda9b95d
+      internalID: -345098005576979370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blue_Star_Catch_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2129
+        y: 145
+        width: 742
+        height: 710
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47388a88aaad347e3b63209b6fc238d8
+      internalID: 4701489886626699100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
