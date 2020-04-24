@@ -207,6 +207,11 @@ PrefabInstance:
       propertyPath: uiManager
       value: 
       objectReference: {fileID: 1315650689}
+    - target: {fileID: 4932469085027987677, guid: 00d6a77accf5242c6b33cbc84cc10e63,
+        type: 3}
+      propertyPath: health
+      value: 
+      objectReference: {fileID: 30348003}
     - target: {fileID: 4932469085027987678, guid: 00d6a77accf5242c6b33cbc84cc10e63,
         type: 3}
       propertyPath: m_Name

@@ -1797,6 +1797,16 @@ PrefabInstance:
       propertyPath: gameManager
       value: 
       objectReference: {fileID: 1020680308}
+    - target: {fileID: 4932469085027987677, guid: 00d6a77accf5242c6b33cbc84cc10e63,
+        type: 3}
+      propertyPath: health
+      value: 
+      objectReference: {fileID: 1253031648}
+    - target: {fileID: 4932469085027987677, guid: 00d6a77accf5242c6b33cbc84cc10e63,
+        type: 3}
+      propertyPath: uiManager
+      value: 
+      objectReference: {fileID: 293579670}
     - target: {fileID: 4932469085027987678, guid: 00d6a77accf5242c6b33cbc84cc10e63,
         type: 3}
       propertyPath: m_Name
