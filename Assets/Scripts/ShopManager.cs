@@ -65,17 +65,33 @@ public class ShopManager : MonoBehaviour
         {
             slvrNetButton.interactable = true;
         }
+        else
+        {
+            slvrNetButton.interactable = false;
+        }
         if(GameManager.instance.totalStars >= 10000 && goldNet == false)
         {
             gldNetButton.interactable = true;
         }
-        if(GameManager.instance.totalStars >= 200)
+        else
+        {
+            gldNetButton.interactable = false;
+        }
+        if (GameManager.instance.totalStars >= 200)
         {
             bubbleButton.interactable = true;
         }
-        if(GameManager.instance.totalStars >= 300)
+        else
+        {
+            bubbleButton.interactable = false;
+        }
+        if (GameManager.instance.totalStars >= 300)
         {
             ufoButton.interactable = true;
+        }
+        else
+        {
+            ufoButton.interactable = false;
         }
     }
 
@@ -147,7 +163,7 @@ public class ShopManager : MonoBehaviour
     {
         GameManager.instance.totalStars = GameManager.instance.totalStars - 300;
         ufoUses++;
-        PlayerPrefs.SetInt("ufoUses", ufoUses);
+        PlayerPrefs.SetInt("UFOUses", ufoUses);
         FindObjectOfType<UIManager>().UpdateTotal();
     }
 }

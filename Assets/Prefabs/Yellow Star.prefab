@@ -98,6 +98,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   collected: 0
+  rainbowExplode: {fileID: 0}
+  particleSpawn: {fileID: 0}
+  explosionClip: {fileID: 8300000, guid: da33a73bdb4b5484f865932f823c4b40, type: 3}
 --- !u!61 &6290859489494411748
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -8,6 +8,7 @@ public class TutorialManager : MonoBehaviour
     private int popUpIndex;
     public GameObject spawner;
     public GameObject spawnItem;
+    public TutorialTimer tt;
 
 
     // Start is called before the first frame update
@@ -61,6 +62,7 @@ public class TutorialManager : MonoBehaviour
                 FindObjectOfType<Spawner>().SpawnerOn();
                 popUpIndex++;
                 popUps[2].SetActive(false);
+                tt.off = false;
                 
             }
       

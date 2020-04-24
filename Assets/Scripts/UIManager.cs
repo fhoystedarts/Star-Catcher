@@ -15,6 +15,8 @@ public class UIManager : MonoBehaviour
     public GameObject bubble;
     public GameObject UFO;
 
+    public Test test;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -40,13 +42,17 @@ public class UIManager : MonoBehaviour
 
         bubble.SetActive(false);
         UFO.SetActive(false);
-
     }
 
     // Update is called once per frame
-    void Update()
+    public void Update()
     {
         UpdateTotal();
+
+        if(test.ufoTL < 0)
+        {
+            UFO.gameObject.SetActive(false);
+        }
     }
     public void UpdateScore()
     {
@@ -76,7 +82,9 @@ public class UIManager : MonoBehaviour
     public void UseUFO()
     {
         UFO.SetActive(true);
+        test.off = false;
         GameManager.instance.ufoUses--;
         PlayerPrefs.SetInt("UFOUses", GameManager.instance.ufoUses);
     }
+
 }

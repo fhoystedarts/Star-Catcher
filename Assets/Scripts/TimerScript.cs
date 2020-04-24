@@ -10,8 +10,7 @@ public class TimerScript : MonoBehaviour
 
     public Text timerText;
 
-	public SceneChanger sceneChanger;
-	
+    public SceneChanger sceneChanger;
 
 	void Start()
 	{
@@ -25,7 +24,7 @@ public class TimerScript : MonoBehaviour
         UpdateTimer();
 		if (timer < 0)
 		{
-			sceneChanger.LoadNextScene();
+            sceneChanger.LoadNextScene();
 		}
 	}
 

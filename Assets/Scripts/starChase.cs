@@ -12,6 +12,8 @@ public class starChase : MonoBehaviour
     public Sprite slvrNet;
     public Sprite gldNet;
 
+    public Health health;
+
   
 
     // Start is called before the first frame update
@@ -72,24 +74,20 @@ public class starChase : MonoBehaviour
         {
             GameManager.instance.score = GameManager.instance.score + 5;
             uiManager.UpdateScore();
-            collision.gameObject.SetActive(false);
         }
         else if (collision.gameObject.CompareTag("rainbow"))
         {
             GameManager.instance.score = GameManager.instance.score + 20;
             uiManager.UpdateScore();
-            collision.gameObject.SetActive(false);
         }
         else if (collision.gameObject.CompareTag("black"))
         {
             GameManager.instance.score = GameManager.instance.score - 20;
             uiManager.UpdateScore();
-            collision.gameObject.SetActive(false);
         }
        else if (collision.gameObject.CompareTag("meteor")&& GameManager.instance.bubbleOn == false)
         {
-            GameManager.instance.health = GameManager.instance.health - 1;
-            collision.gameObject.SetActive(false);
+            health.TakeDamage(1);
             Debug.Log("Health:" + GameManager.instance.health);
         }
     }

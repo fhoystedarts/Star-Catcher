@@ -1,0 +1,2119 @@
+fileFormatVersion: 2
+guid: ade6c3f34b76f4d78a6edf3768cf4d19
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6573923441581560175
+    second: Net_Health_Lives_UI_0
+  - first:
+      213: -7385600075196765305
+    second: Net_Health_Lives_UI_1
+  - first:
+      213: 4259186586160418135
+    second: Net_Health_Lives_UI_2
+  - first:
+      213: -104320230679800114
+    second: Net_Health_Lives_UI_3
+  - first:
+      213: -1470916971622705067
+    second: Net_Health_Lives_UI_4
+  - first:
+      213: 247243646147989545
+    second: Net_Health_Lives_UI_5
+  - first:
+      213: -3388675690485235671
+    second: Net_Health_Lives_UI_6
+  - first:
+      213: 635309818729053578
+    second: Net_Health_Lives_UI_7
+  - first:
+      213: 6978083004486548988
+    second: Net_Health_Lives_UI_8
+  - first:
+      213: 7095245449502083674
+    second: Net_Health_Lives_UI_9
+  - first:
+      213: 7428721684169958346
+    second: Net_Health_Lives_UI_10
+  - first:
+      213: 2481324227195526777
+    second: Net_Health_Lives_UI_11
+  - first:
+      213: 7648362826176892700
+    second: Net_Health_Lives_UI_12
+  - first:
+      213: 2941171429483700108
+    second: Net_Health_Lives_UI_13
+  - first:
+      213: 2758610806161390032
+    second: Net_Health_Lives_UI_14
+  - first:
+      213: -1060909627488634351
+    second: Net_Health_Lives_UI_15
+  - first:
+      213: 2958608869277260971
+    second: Net_Health_Lives_UI_16
+  - first:
+      213: -8838557599926086416
+    second: Net_Health_Lives_UI_17
+  - first:
+      213: 8382023438553236036
+    second: Net_Health_Lives_UI_18
+  - first:
+      213: 7035863124332363820
+    second: Net_Health_Lives_UI_19
+  - first:
+      213: -1039253923286935392
+    second: Net_Health_Lives_UI_20
+  - first:
+      213: -4435565139135208600
+    second: Net_Health_Lives_UI_21
+  - first:
+      213: 8199251322637059973
+    second: Net_Health_Lives_UI_22
+  - first:
+      213: 6262135018099719952
+    second: Net_Health_Lives_UI_23
+  - first:
+      213: -8656885950025598092
+    second: Net_Health_Lives_UI_24
+  - first:
+      213: -8014285150712140391
+    second: Net_Health_Lives_UI_25
+  - first:
+      213: -2188939547151424276
+    second: Net_Health_Lives_UI_26
+  - first:
+      213: -8852323038789650734
+    second: Net_Health_Lives_UI_27
+  - first:
+      213: 3246680947999750791
+    second: Net_Health_Lives_UI_28
+  - first:
+      213: 7432195554568109494
+    second: Net_Health_Lives_UI_29
+  - first:
+      213: -8306198908085214304
+    second: Net_Health_Lives_UI_30
+  - first:
+      213: 8048661841256868655
+    second: Net_Health_Lives_UI_31
+  - first:
+      213: 5750654041142281263
+    second: Net_Health_Lives_UI_32
+  - first:
+      213: -2373155253736289429
+    second: Net_Health_Lives_UI_33
+  - first:
+      213: 554237491496407308
+    second: Net_Health_Lives_UI_34
+  - first:
+      213: -136940015827724948
+    second: Net_Health_Lives_UI_35
+  - first:
+      213: 5413118428727234108
+    second: Net_Health_Lives_UI_36
+  - first:
+      213: 7892105433029654338
+    second: Net_Health_Lives_UI_37
+  - first:
+      213: -5639138336321966908
+    second: Net_Health_Lives_UI_38
+  - first:
+      213: -2863570288053339027
+    second: Net_Health_Lives_UI_39
+  - first:
+      213: 4336847652097069550
+    second: Net_Health_Lives_UI_40
+  - first:
+      213: 2741615572518863848
+    second: Net_Health_Lives_UI_41
+  - first:
+      213: -6109206989276651147
+    second: Net_Health_Lives_UI_42
+  - first:
+      213: 4518929056795532842
+    second: Net_Health_Lives_UI_43
+  - first:
+      213: -908375851980520643
+    second: Net_Health_Lives_UI_44
+  - first:
+      213: 2920928610956686650
+    second: Net_Health_Lives_UI_45
+  - first:
+      213: -4784296667555442052
+    second: Net_Health_Lives_UI_46
+  - first:
+      213: 8771634340091445483
+    second: Net_Health_Lives_UI_47
+  - first:
+      213: -2437520507651492420
+    second: Net_Health_Lives_UI_48
+  - first:
+      213: 7000216067417165174
+    second: Net_Health_Lives_UI_49
+  - first:
+      213: -6422916097822512869
+    second: Net_Health_Lives_UI_50
+  - first:
+      213: 932413824329235685
+    second: Net_Health_Lives_UI_51
+  - first:
+      213: 2182816712296568838
+    second: Net_Health_Lives_UI_52
+  - first:
+      213: -3479400587854289258
+    second: Net_Health_Lives_UI_53
+  - first:
+      213: -3890458040600285052
+    second: Net_Health_Lives_UI_54
+  - first:
+      213: -5611007350217890387
+    second: Net_Health_Lives_UI_55
+  - first:
+      213: -2947836756782662409
+    second: Net_Health_Lives_UI_56
+  - first:
+      213: -769655663410405266
+    second: Net_Health_Lives_UI_57
+  - first:
+      213: -5173651870309328562
+    second: Net_Health_Lives_UI_58
+  - first:
+      213: -2197743679316589675
+    second: Net_Health_Lives_UI_59
+  - first:
+      213: 1301515877885101991
+    second: Net_Health_Lives_UI_60
+  - first:
+      213: -9197653413934864801
+    second: Net_Health_Lives_UI_61
+  - first:
+      213: -2233547757252974462
+    second: Net_Health_Lives_UI_62
+  - first:
+      213: -6992232190152077407
+    second: Net_Health_Lives_UI_63
+  - first:
+      213: -963847874022050090
+    second: Net_Health_Lives_UI_64
+  - first:
+      213: -5100694325071415066
+    second: Net_Health_Lives_UI_65
+  - first:
+      213: 6002405369026276108
+    second: Net_Health_Lives_UI_66
+  - first:
+      213: -5527558281831083473
+    second: Net_Health_Lives_UI_67
+  - first:
+      213: -8621066229441361989
+    second: Net_Health_Lives_UI_68
+  - first:
+      213: 920314969182098665
+    second: Net_Health_Lives_UI_69
+  - first:
+      213: -2043878388022582425
+    second: Net_Health_Lives_UI_70
+  - first:
+      213: 5863745868398825330
+    second: Net_Health_Lives_UI_71
+  - first:
+      213: -2092384650814385012
+    second: Net_Health_Lives_UI_72
+  - first:
+      213: 2757186120426935978
+    second: Net_Health_Lives_UI_73
+  - first:
+      213: -7082817960864253075
+    second: Net_Health_Lives_UI_74
+  - first:
+      213: -2947376780422053144
+    second: Net_Health_Lives_UI_75
+  - first:
+      213: -7104832089673671245
+    second: Net_Health_Lives_UI_76
+  - first:
+      213: -3817366492690397612
+    second: Net_Health_Lives_UI_77
+  - first:
+      213: 6714262977111183902
+    second: Net_Health_Lives_UI_78
+  - first:
+      213: -8329299452415689953
+    second: Net_Health_Lives_UI_79
+  - first:
+      213: 1882890466679007974
+    second: Net_Health_Lives_UI_80
+  - first:
+      213: 606427202925624118
+    second: Net_Health_Lives_UI_81
+  - first:
+      213: 4889677230192227193
+    second: Net_Health_Lives_UI_82
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 4498
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d361b22a26a4063af383bcb46d1edc
+      internalID: 6573923441581560175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 4498
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1d499e14bfa40958d9b7119b340d8e
+      internalID: -7385600075196765305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4498
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9926b5b20e864d029d7cb1cc84eaf48
+      internalID: 4259186586160418135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_3
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 4602
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624b390f01eaa40d0b546040bce1a3f5
+      internalID: -104320230679800114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_4
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 4602
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547255e970fb740458cc93fdf09d9a83
+      internalID: -1470916971622705067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_5
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 4602
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b86decac5b74388abde8a53b4764a3
+      internalID: 247243646147989545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_6
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 4602
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf62e68a192b4d42991311f3e0e932f
+      internalID: -3388675690485235671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_7
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 4602
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a8c60380e474c53bd71ace4079949d
+      internalID: 635309818729053578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_8
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 4602
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22817f3e6b34246869428ebbb0a80a14
+      internalID: 6978083004486548988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_9
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 4602
+        width: 287
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a22388e943d4932bce2956114fc66d
+      internalID: 7095245449502083674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 3927
+        width: 292
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d99345fafd7244279ef3b7f981b2f3e
+      internalID: 7428721684169958346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3927
+        width: 288
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165772400ee5f4afda2d045ec46424d6
+      internalID: 2481324227195526777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_12
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 3929
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b793bfef24c04404ae4f04a33708ab2
+      internalID: 7648362826176892700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_13
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 4021
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a6d5123f8264a5ca21e17536df12c5
+      internalID: 2941171429483700108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_14
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 4021
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bfa48e97ff440eea9c91132abd7876
+      internalID: 2758610806161390032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_15
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 4021
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3736c82362a20430cb80982a146b271f
+      internalID: -1060909627488634351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_16
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 4021
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47271ccd148584b1095087ff37ffb3a0
+      internalID: 2958608869277260971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_17
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 4021
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131ab6006c548486da88de0c741b655f
+      internalID: -8838557599926086416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_18
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 4021
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a8da2dbd490446e8f409005800cd35
+      internalID: 8382023438553236036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_19
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 4021
+        width: 287
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7a416649bb444c4adb37db7d9bda5d
+      internalID: 7035863124332363820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_20
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3281
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff9a21f2d2cf47628a806f0ef06b40c
+      internalID: -1039253923286935392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_21
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 3281
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487fc62871d8c48e6840677f12ea01f8
+      internalID: -4435565139135208600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_22
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 3281
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b140345926a44267abf3627c5d15cfa
+      internalID: 8199251322637059973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_23
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 3405
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a50f293c7ad44d4b6f2105cb1b81d4
+      internalID: 6262135018099719952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_24
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 3405
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5426410ca408e420cb44430fd575ab58
+      internalID: -8656885950025598092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_25
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 3405
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a11a4df4bae4914b75e74f71620b82
+      internalID: -8014285150712140391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_26
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 3405
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efdfbd76cace46378c760fbceb11ffa
+      internalID: -2188939547151424276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_27
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 3405
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ee86528fe704ff89e15e5372f77a58
+      internalID: -8852323038789650734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_28
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 3405
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231fa3693193a4e999628f2d7c930b9d
+      internalID: 3246680947999750791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_29
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 3405
+        width: 287
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c7c4d0fc03345b0b0110cccc3b7b16
+      internalID: 7432195554568109494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2560
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1441693bbb240c29fd0a257aabab0f
+      internalID: -8306198908085214304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_31
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2560
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b428fe2edf9374bf8a9bc96368ed4ac7
+      internalID: 8048661841256868655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_32
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2560
+        width: 292
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806e3ad7f2e324effbd2818bdfcff174
+      internalID: 5750654041142281263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_33
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 2570
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2662c7e759d354205b5b33bdad0309e6
+      internalID: -2373155253736289429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_34
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2566
+        width: 287
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eab1614b45154238a5953a913af2b01
+      internalID: 554237491496407308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_35
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 2824
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c31c27a36f0645319ac99b14272e79d
+      internalID: -136940015827724948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_36
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2824
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8949fb9ca900a46f3b54af2fc2b9ce75
+      internalID: 5413118428727234108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_37
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 2824
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15a2fc77758b4040bb61ed2ae32d48a
+      internalID: 7892105433029654338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_38
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 2824
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d9f19db189c4245b44d1f13e92f22c
+      internalID: -5639138336321966908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_39
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 2824
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc7fc44e679d4a378f5ada08f06c00a
+      internalID: -2863570288053339027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_40
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 2824
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619390e3d6e4d44e69c0a0bbe96464ba
+      internalID: 4336847652097069550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_41
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 2824
+        width: 287
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d60d3e3eb864e3e9b1c6e4b553423c
+      internalID: 2741615572518863848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_42
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1974
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716f9196b12634f888b7831f2dfe6bf4
+      internalID: -6109206989276651147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_43
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1974
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c266a9641ec44d8da1dc95b39375b6e
+      internalID: 4518929056795532842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_44
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1974
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289f76881a7d84cd9ad3a9d1075aaf4c
+      internalID: -908375851980520643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_45
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1984
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65e32ad8a504de99a932d42abca31d
+      internalID: 2920928610956686650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_46
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 1984
+        width: 287
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9aec317e0704a22b58bff64f67bda6
+      internalID: -4784296667555442052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_47
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 2233
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7604e28da75f04e9bb77e616fcc39713
+      internalID: 8771634340091445483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_48
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 2233
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf90d387d45764b87847442cbf533a4a
+      internalID: -2437520507651492420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_49
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 2233
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 368cc5c01ace34fcab8472182c6c8502
+      internalID: 7000216067417165174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_50
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 2233
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f526f10f3912547bc86feb246cf3ea1b
+      internalID: -6422916097822512869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_51
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 2233
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1a268ecb0fb41af9d9f22340d05bef
+      internalID: 932413824329235685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_52
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 2233
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3c3be24109d43058e0da9a87251adc
+      internalID: 2182816712296568838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_53
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 2233
+        width: 287
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdce82821d2074d5a9f1992e7f2f349f
+      internalID: -3479400587854289258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_54
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1339
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5557e276efe6e4b1ba038df3b63a05e6
+      internalID: -3890458040600285052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_55
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1339
+        width: 292
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2695932f1bed04f0297e14f818ea2a43
+      internalID: -5611007350217890387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_56
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1339
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05f76d4697804c259ec6a77de512368
+      internalID: -2947836756782662409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_57
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 1349
+        width: 292
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75957dfafe5e4e1cb4b20e63953b6e4
+      internalID: -769655663410405266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_58
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1349
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412ba380825b8475b85494a1172c40d8
+      internalID: -5173651870309328562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_59
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1647
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf16045dbfdf447a0b2c27ece2053a1f
+      internalID: -2197743679316589675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_60
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 1647
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b500dcf435a04453aa7deea906fa86d1
+      internalID: 1301515877885101991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_61
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 1647
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9fe255bfdd0415c821937160e58ca4
+      internalID: -9197653413934864801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_62
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 1647
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13a4329653c14d7db6c69c1fd138b9c
+      internalID: -2233547757252974462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_63
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 1647
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bf86b55136a844b09db13d96bcd101f
+      internalID: -6992232190152077407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_64
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 1647
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830121f0c22544b6686d77d008245c29
+      internalID: -963847874022050090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_65
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 1647
+        width: 287
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfacba561d4f4755b64e658e282c9ed
+      internalID: -5100694325071415066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_66
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 673
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf518ccf6c4a4a7cae290c97c7ac7e1
+      internalID: 6002405369026276108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_67
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 673
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d072a56c6b876415091397c33ce19355
+      internalID: -5527558281831083473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_68
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 673
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55dfbc75a8ed748c48b77e48a38344f2
+      internalID: -8621066229441361989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_69
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 683
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe335b87c0994a29bc468b7916ad11d
+      internalID: 920314969182098665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_70
+      rect:
+        serializedVersion: 2
+        x: 1582
+        y: 683
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f49839c29b64ca0a36acc9377d1b81
+      internalID: -2043878388022582425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_71
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 1036
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b27c34745c9b4feb9f0f9794dd515ad
+      internalID: 5863745868398825330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_72
+      rect:
+        serializedVersion: 2
+        x: 2784
+        y: 1036
+        width: 287
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a696495975ca64aefa1d43665bf8ef1a
+      internalID: -2092384650814385012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_73
+      rect:
+        serializedVersion: 2
+        x: 3161
+        y: 1036
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28f4b9114d304a82a480709e5bebf90
+      internalID: 2757186120426935978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_74
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 1036
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5096cd7a205c24299b6624feccfd21b0
+      internalID: -7082817960864253075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_75
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 1036
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832336bc185f74169b8afd1860c9724e
+      internalID: -2947376780422053144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_76
+      rect:
+        serializedVersion: 2
+        x: 4313
+        y: 1036
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c2e637bfdab4c8da85d28b1c15d554
+      internalID: -7104832089673671245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_77
+      rect:
+        serializedVersion: 2
+        x: 4696
+        y: 1036
+        width: 287
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018594c13b2824477b883ab6d2543356
+      internalID: -3817366492690397612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_78
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc0d4b2dfcba43d0a914122268a2ea9
+      internalID: 6714262977111183902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_79
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e0ae6fb8dc246af9e2c484555b8e00
+      internalID: -8329299452415689953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_80
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 3
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8e28efddf944b6a8c4d47dd106bf78
+      internalID: 1882890466679007974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_81
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 13
+        width: 288
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3002d587dc804508a5dbb52b3270507
+      internalID: 606427202925624118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Net_Health_Lives_UI_82
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 12
+        width: 288
+        height: 482
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e291b69470694ce6ac0d64cd4120241
+      internalID: 4889677230192227193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

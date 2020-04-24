@@ -10,6 +10,10 @@ public class itemController : MonoBehaviour
     private Rigidbody2D rigidbody2D;
     private Animator animator;
     public bool collected;
+    public GameObject rainbowExplode;
+
+    public Transform particleSpawn;
+    public AudioClip explosionClip;
     
    
 
@@ -34,6 +38,12 @@ public class itemController : MonoBehaviour
         if (collision.gameObject.CompareTag("Player") || collision.gameObject.CompareTag("UFO"))
         {
             collected = true;
+            AudioSource.PlayClipAtPoint(explosionClip, transform.position);
+
+            if (this.CompareTag("rainbow"))
+            {
+                Instantiate(rainbowExplode, particleSpawn.position, particleSpawn.rotation);
+            }
         }
     }
 

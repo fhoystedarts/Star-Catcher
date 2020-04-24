@@ -145,6 +145,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 10
   collected: 0
+  rainbowExplode: {fileID: 0}
+  particleSpawn: {fileID: 0}
+  explosionClip: {fileID: 8300000, guid: 2597e5557384f4523a3bdc1c338865d4, type: 3}
 --- !u!95 &3773374420040682089
 Animator:
   serializedVersion: 3

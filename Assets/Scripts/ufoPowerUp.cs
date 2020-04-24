@@ -5,7 +5,7 @@ using UnityEngine;
 public class ufoPowerUp : MonoBehaviour
 {
     public UIManager uiManager;
-
+    
     public void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.CompareTag("yellow"))
@@ -31,11 +31,6 @@ public class ufoPowerUp : MonoBehaviour
             uiManager.UpdateScore();
             collision.gameObject.SetActive(false);
         }
-        else if (collision.gameObject.CompareTag("meteor") && GameManager.instance.bubbleOn == false)
-        {
-            GameManager.instance.health = GameManager.instance.health - 1;
-            collision.gameObject.SetActive(false);
-            Debug.Log("Health:" + GameManager.instance.health);
-        }
+        
     }
 }

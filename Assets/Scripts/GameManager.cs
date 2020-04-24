@@ -37,7 +37,8 @@ public class GameManager : MonoBehaviour
     {
  
        FindObjectOfType<UIManager>().UpdateScore();
-   
+       
+
     }
 
     public void Update()
@@ -45,7 +46,10 @@ public class GameManager : MonoBehaviour
         totalStars = PlayerPrefs.GetInt("TotalScore");
         bubbleUses = PlayerPrefs.GetInt("BubbleUses");
         ufoUses = PlayerPrefs.GetInt("UFOUses");
+
+       
     }
+
 
     public void AddScore(int newScoreValue)
     {
@@ -57,5 +61,4 @@ public class GameManager : MonoBehaviour
     {
         totalStars = totalStars + score;
     }
-
 }
