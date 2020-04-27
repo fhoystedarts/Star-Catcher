@@ -17,27 +17,18 @@ public class UIManager : MonoBehaviour
 
     public Test test;
 
+    public bool level;
+
     // Start is called before the first frame update
     void Start()
     {
+        
+        UpdateTotalScore();
         UpdateScore();
-      
 
-        if(GameManager.instance.bubbleUses >= 1)
+        if(level)
         {
-            bubbleGameButton.SetActive(true);
-        }
-        else if(GameManager.instance.bubbleUses <= 0)
-        {
-            bubbleGameButton.SetActive(false);
-        }
-        if(GameManager.instance.ufoUses >= 1)
-        {
-            ufoGameButton.SetActive(true);
-        }
-        else if(GameManager.instance.ufoUses <= 0)
-        {
-            ufoGameButton.SetActive(false);
+            UpdateTotal(); 
         }
 
         bubble.SetActive(false);
@@ -47,6 +38,23 @@ public class UIManager : MonoBehaviour
     // Update is called once per frame
     public void Update()
     {
+        if (GameManager.instance.bubbleUses >= 1)
+        {
+            bubbleGameButton.SetActive(true);
+        }
+        else if (GameManager.instance.bubbleUses <= 0)
+        {
+            bubbleGameButton.SetActive(false);
+        }
+        if (GameManager.instance.ufoUses >= 1)
+        {
+            ufoGameButton.SetActive(true);
+        }
+        else if (GameManager.instance.ufoUses <= 0)
+        {
+            ufoGameButton.SetActive(false);
+        }
+        UpdateTotalScore();
         UpdateTotal();
 
         if(test.ufoTL < 0)
@@ -57,7 +65,8 @@ public class UIManager : MonoBehaviour
     public void UpdateScore()
     {
         scoreText.text = GameManager.instance.score.ToString();
-    }
+        Debug.Log("Score Updated");
+    } 
 
     public void UpdateTotal()
     {
@@ -68,9 +77,15 @@ public class UIManager : MonoBehaviour
         Debug.Log(GameManager.instance.totalStars);
     }
 
+    public void UpdateTotalScore()
+    {
+        PlayerPrefs.SetInt("TotalScore", GameManager.instance.totalStars);
+        Debug.Log("Setting Total");
+    }
+
     public void UseBubble()
     {
-        FindObjectOfType<BubblePowerUP>().bubbleHealth = 3;
+        
         bubble.SetActive(true);
         GameManager.instance.bubbleOn = true;
         GameManager.instance.bubbleUses--;

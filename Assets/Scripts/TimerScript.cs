@@ -23,7 +23,7 @@ public class TimerScript : MonoBehaviour
         timer = Mathf.Round(timeLeft);
         UpdateTimer();
 		if (timer < 0)
-		{
+        { 
             sceneChanger.LoadNextScene();
 		}
 	}

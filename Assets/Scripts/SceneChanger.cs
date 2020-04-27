@@ -18,6 +18,8 @@ public class SceneChanger : MonoBehaviour
     private int currentLvl;
 
     public bool winScreen;
+
+    public int tempScore;
     // Start is called before the first frame update
     void Start()
     {
@@ -37,6 +39,9 @@ public class SceneChanger : MonoBehaviour
             Debug.Log("You Died");
             GameOverScreen.SetActive(true);
         }
+
+        PlayerPrefs.SetInt("Score", GameManager.instance.score);
+        tempScore = PlayerPrefs.GetInt("Score");
     }
 
     public void PauseUnpauseGame()
@@ -74,6 +79,7 @@ public class SceneChanger : MonoBehaviour
 
     public void LoadNextScene()
     {
+        PlayerPrefs.SetInt("Score", GameManager.instance.score);
         SceneManager.LoadScene(nextScene);
         if(tutorial == true)
         {
@@ -89,6 +95,9 @@ public class SceneChanger : MonoBehaviour
  
     public void LoadMainMenu()
     {
+        GameManager.instance.totalStars = GameManager.instance.totalStars + tempScore;
+        PlayerPrefs.SetInt("TotalScore", GameManager.instance.totalStars);
+
         SceneManager.LoadScene(0);
     }
 
@@ -98,6 +107,8 @@ public class SceneChanger : MonoBehaviour
     }
     public void ExitGame()
     {
+        GameManager.instance.totalStars = GameManager.instance.totalStars + tempScore;
+        PlayerPrefs.SetInt("TotalScore", GameManager.instance.totalStars);
         Application.Quit();
     }
 

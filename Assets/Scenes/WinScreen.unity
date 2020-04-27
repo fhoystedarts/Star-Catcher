@@ -458,6 +458,7 @@ MonoBehaviour:
   pauseMenu: {fileID: 0}
   tutorial: 0
   winScreen: 1
+  tempScore: 0
 --- !u!4 &309663974
 Transform:
   m_ObjectHideFlags: 0
@@ -491,8 +492,7 @@ MonoBehaviour:
   ufoGameButton: {fileID: 0}
   bubble: {fileID: 0}
   UFO: {fileID: 0}
-  ufoTL: 0
-  ufoOn: 0
+  test: {fileID: 0}
 --- !u!1 &568303583
 GameObject:
   m_ObjectHideFlags: 0
@@ -940,7 +940,7 @@ PrefabInstance:
     - target: {fileID: 6789960568855349810, guid: b5a74ceb40cd6423d8215cfb52d9fcc7,
         type: 3}
       propertyPath: score
-      value: 300
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6789960568855349811, guid: b5a74ceb40cd6423d8215cfb52d9fcc7,
         type: 3}
