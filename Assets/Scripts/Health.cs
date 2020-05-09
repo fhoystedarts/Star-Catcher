@@ -25,7 +25,7 @@ public class Health : MonoBehaviour
 
     void Start()
     {
-        GameManager.instance.health = health;
+        health = GameManager.instance.health;
         currentHealth = health;
     }
 

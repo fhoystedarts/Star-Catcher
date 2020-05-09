@@ -17,6 +17,7 @@ public class GameManager : MonoBehaviour
     public int ufoUses;
 
     public bool bubbleOn;
+ 
 
     private void Awake()
     {
@@ -37,15 +38,18 @@ public class GameManager : MonoBehaviour
     {
  
        FindObjectOfType<UIManager>().UpdateScore();
+        
        
 
     }
 
     public void Update()
     {
+        
         totalStars = PlayerPrefs.GetInt("TotalScore");
         bubbleUses = PlayerPrefs.GetInt("BubbleUses");
         ufoUses = PlayerPrefs.GetInt("UFOUses");
+        
 
        
     }

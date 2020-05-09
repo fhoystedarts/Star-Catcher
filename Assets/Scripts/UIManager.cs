@@ -44,7 +44,10 @@ public class UIManager : MonoBehaviour
         }
         else if (GameManager.instance.bubbleUses <= 0)
         {
-            bubbleGameButton.SetActive(false);
+            if (bubbleGameButton != null)
+            {
+                bubbleGameButton.SetActive(false);
+            }
         }
         if (GameManager.instance.ufoUses >= 1)
         {
@@ -52,10 +55,17 @@ public class UIManager : MonoBehaviour
         }
         else if (GameManager.instance.ufoUses <= 0)
         {
-            ufoGameButton.SetActive(false);
+           if (ufoGameButton != null)
+            {
+                ufoGameButton.SetActive(false);
+            }
         }
         UpdateTotalScore();
-        UpdateTotal();
+
+        if(totalText != null)
+        {
+            UpdateTotal();
+        }
 
         if(test.ufoTL < 0)
         {

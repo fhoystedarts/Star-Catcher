@@ -11,6 +11,7 @@ public class TutorialTimer : MonoBehaviour
     public bool off;
 
     public Text timerText;
+    public Image fadeOut;
 
     public SceneChanger sceneChanger;
 
@@ -32,6 +33,7 @@ public class TutorialTimer : MonoBehaviour
             if (timer < 0)
             {
                 sceneChanger.LoadNextScene();
+              
             }
         }
     }

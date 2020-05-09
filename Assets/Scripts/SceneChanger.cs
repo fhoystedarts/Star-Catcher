@@ -20,6 +20,7 @@ public class SceneChanger : MonoBehaviour
     public bool winScreen;
 
     public int tempScore;
+    public Health h;
     // Start is called before the first frame update
     void Start()
     {
@@ -33,7 +34,7 @@ public class SceneChanger : MonoBehaviour
     {
         currentLvl = PlayerPrefs.GetInt("LvlStart");
 
-        if (GameManager.instance.health <= 0)
+        if (h.currentHealth <= 0)
         {
             Time.timeScale = 0;
             Debug.Log("You Died");
