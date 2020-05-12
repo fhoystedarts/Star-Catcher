@@ -768,7 +768,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 32098864237974cfd947038c95a1e565, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timeLeft: 5
+  timeLeft: 30
   off: 1
   timerText: {fileID: 2095778648}
   fadeOut: {fileID: 0}

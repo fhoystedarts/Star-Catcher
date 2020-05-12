@@ -14,6 +14,7 @@ public class itemController : MonoBehaviour
 
     public Transform particleSpawn;
     public AudioClip explosionClip;
+
     
    
 
@@ -38,6 +39,7 @@ public class itemController : MonoBehaviour
         if (collision.gameObject.CompareTag("Player") || collision.gameObject.CompareTag("UFO"))
         {
             collected = true;
+
             AudioSource.PlayClipAtPoint(explosionClip, transform.position);
 
             if (this.CompareTag("rainbow"))

@@ -180,6 +180,7 @@ MonoBehaviour:
     type: 3}
   particleSpawn: {fileID: 3303539345366036195}
   explosionClip: {fileID: 8300000, guid: da33a73bdb4b5484f865932f823c4b40, type: 3}
+  soundSpawn: {fileID: 3303539345366036195}
 --- !u!95 &8831556963408913485
 Animator:
   serializedVersion: 3
